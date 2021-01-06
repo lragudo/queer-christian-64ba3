@@ -23,7 +23,7 @@ sections:
   - section_id: contact
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: lorem-ipsum
+    email: queerchr
     mapUrl: lorem-ipsum
     type: contact_section
 template: home

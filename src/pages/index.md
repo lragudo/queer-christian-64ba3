@@ -22,7 +22,7 @@ sections:
     type: faq_section
   - section_id: contact
     address: ''
-    phone: lorem-ipsum
+    phone: ''
     email: queerchristianfaq@gmail.com
     mapUrl: ''
     type: contact_section

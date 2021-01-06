@@ -17,15 +17,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - section_id: faq
-    questions: []
-    type: faq_section
-  - section_id: contact
-    address: Feel free to contact us with question suggestions.
-    phone: ''
-    email: queerchristianfaq@gmail.com
-    mapUrl: ''
-    type: contact_section
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
@@ -40,5 +31,14 @@ sections:
 
       - dolor sit amet
     type: header_section
+  - section_id: faq
+    questions: []
+    type: faq_section
+  - section_id: contact
+    address: Feel free to contact us with question suggestions.
+    phone: ''
+    email: queerchristianfaq@gmail.com
+    mapUrl: ''
+    type: contact_section
 template: home
 ---

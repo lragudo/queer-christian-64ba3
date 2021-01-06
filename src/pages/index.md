@@ -17,9 +17,5 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
 template: home
 ---

@@ -17,5 +17,8 @@ sections:
         url: /store
         arrow: true
         style: primary
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 template: home
 ---

@@ -17,7 +17,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: The LGBTQ
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

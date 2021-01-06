@@ -20,7 +20,7 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
-  - section_id: lorem-ipsum
+  - section_id: contact
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum

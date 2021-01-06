@@ -21,7 +21,7 @@ sections:
     questions: []
     type: faq_section
   - section_id: contact
-    address: ''
+    address: Feel free to contact us with question sugestions.
     phone: ''
     email: queerchristianfaq@gmail.com
     mapUrl: ''

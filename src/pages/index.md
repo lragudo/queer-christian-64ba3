@@ -91,7 +91,7 @@ sections:
       While many Christians see no problem with being queer and following God,
       many still believe that being queer and Christian can't mix.
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: faq
     questions: []
     type: faq_section
   - section_id: bible

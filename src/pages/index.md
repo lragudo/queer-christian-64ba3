@@ -17,7 +17,7 @@ sections:
         arrow: false
         style: secondary
       - title: Queer + Christian
-        url: lorem-ipsum
+        url: queerChrisitan
         style: secondary
         arrow: false
         type: action

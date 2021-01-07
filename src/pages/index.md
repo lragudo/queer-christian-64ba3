@@ -30,7 +30,7 @@ sections:
         type: action
       - title: References
         url: '/#references'
-        style: primary
+        style: secondary
         arrow: false
         type: action
     type: hero_section

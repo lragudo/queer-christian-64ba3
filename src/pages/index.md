@@ -113,7 +113,7 @@ sections:
     type: faq_section
   - section_id: references
     bulletpoints:
-      - title: lorem-ipsum
+      - title: References
         description: >-
           ## Lorem ipsum
 

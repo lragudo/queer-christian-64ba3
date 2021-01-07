@@ -12,7 +12,7 @@ sections:
       Christians. I hope this recources can help a few people with questions and
       give some queers a break.
     actions:
-      - title: See all items
+      - title: LGBTQ
         url: /store
         arrow: true
         style: primary

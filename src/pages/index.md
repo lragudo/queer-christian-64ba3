@@ -15,7 +15,7 @@ sections:
       - title: LGBTQ+
         url: \
         arrow: true
-        style: primary
+        style: secondary
       - title: lorem-ipsum
         url: lorem-ipsum
         style: primary

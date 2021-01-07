@@ -16,6 +16,11 @@ sections:
         url: /store
         arrow: true
         style: primary
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
   - section_id: The LGBTQ+ Community
     headline: lorem-ipsum
     subtitle: >-

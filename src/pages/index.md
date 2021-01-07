@@ -2,7 +2,7 @@
 title: Home
 white_header: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: H
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

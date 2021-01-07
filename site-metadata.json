@@ -42,7 +42,7 @@
         {
             "title": "Queer & Christian",
             "url": "#queerChristian",
-            "style": "secondary",
+            "style": "link",
             "arrow": false,
             "type": "action"
         },

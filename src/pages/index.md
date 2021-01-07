@@ -12,7 +12,12 @@ sections:
 
       This is not all inclusive but a place to begin to answer questions and
       come to an understanding.
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
   - section_id: header
     headline: words

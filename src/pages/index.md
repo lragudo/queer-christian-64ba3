@@ -23,6 +23,11 @@ sections:
         style: secondary
         arrow: false
         type: action
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
   - section_id: header
     headline: words

@@ -100,7 +100,7 @@ sections:
       What does the Bible really say on the topic? Let's look at the passages
       that the church has used against queer Chrisitans,
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: faq
     questions: []
     type: faq_section
 template: home

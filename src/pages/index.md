@@ -40,7 +40,7 @@ sections:
     email: queerchristianfaq@gmail.com
     mapUrl: ''
     type: contact_section
-  - section_id: lorem-ipsum
+  - section_id: Question header
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

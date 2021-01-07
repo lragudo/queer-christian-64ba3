@@ -21,7 +21,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-  - section_id: lorem-ipsum
+  - section_id: ''
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

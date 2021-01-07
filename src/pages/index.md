@@ -25,7 +25,7 @@ sections:
         type: action
       - title: The Bible
         url: '/#bible'
-        style: primary
+        style: secondary
         arrow: false
         type: action
     type: hero_section

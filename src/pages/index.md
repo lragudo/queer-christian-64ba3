@@ -92,11 +92,5 @@ sections:
       What does the Bible really say on the topic? Let's look at the passages
       that the church has used against queer Chrisitans,
     type: header_section
-  - section_id: contact
-    address: Feel free to contact us with question suggestions.
-    phone: ''
-    email: queerchristianfaq@gmail.com
-    mapUrl: ''
-    type: contact_section
 template: home
 ---

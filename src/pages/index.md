@@ -4,14 +4,14 @@ white_header: true
 sections:
   - section_id: lorem-ipsum
     background_image_opacity: 0
-    content: |-
+    content: >-
       # The Queer Christian FAQ
 
-      ## To the queers
-      explain the website and why it was made for them.
 
-      ## To the family and friends who this was sent to
-      explain why I made this site to answer questions
+      explain the reason for this site and what it's about
+
+      This is not all inclusive but a place to begin to answer questions and
+      come to an understanding.
     actions: []
     type: hero_section
   - section_id: header

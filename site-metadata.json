@@ -48,7 +48,7 @@
         },
         {
             "title": "The Bible",
-            "url": "lorem-ipsum",
+            "url": "#bible",
             "style": "primary",
             "arrow": false,
             "type": "action"

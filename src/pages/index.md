@@ -98,4 +98,5 @@ sections:
       that the church has used against queer Chrisitans,
     type: header_section
 template: home
+page_css_class: home
 ---

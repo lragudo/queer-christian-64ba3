@@ -29,7 +29,7 @@ sections:
         arrow: false
         type: action
       - title: lorem-ipsum
-        url: lorem-ipsum
+        url: '/#references'
         style: primary
         arrow: false
         type: action

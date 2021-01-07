@@ -22,7 +22,7 @@ sections:
         arrow: false
         type: action
   - section_id: The LGBTQ+ Community
-    headline: lorem-ipsum
+    headline: LGBTQ
     subtitle: >-
       ## Lorem ipsum
 

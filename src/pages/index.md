@@ -15,7 +15,7 @@ sections:
     actions:
       - title: lorem-ipsum
         url: lorem-ipsum
-        style: primary
+        style: secondary
         arrow: false
         type: action
     type: hero_section

@@ -92,7 +92,7 @@ sections:
     email: queerchristianfaq@gmail.com
     mapUrl: ''
     type: contact_section
-  - section_id: lorem-ipsum
+  - section_id: q
     headline: The Bible on Homosexuality
     subtitle: >-
       What does the Bible really say on the topic? Let's look at the passages

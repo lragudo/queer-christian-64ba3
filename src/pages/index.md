@@ -67,7 +67,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: 'What '
+      - question: What is attraction and how do you know for sure?
         answer: >-
           ## Lorem ipsum
 

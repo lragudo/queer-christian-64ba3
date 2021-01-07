@@ -1,7 +1,5 @@
 {
     "favicon": "images/favicon.png",
-    "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_secondary": "/images/leaf-light-grey.svg",
@@ -26,33 +24,6 @@
             }
         }
     },
-    "main_menu": [
-        {
-            "title": "About",
-            "url": "/about",
-            "style": "link"
-        },
-        {
-            "title": "LGBTQ+",
-            "url": "#lgbtq",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
-        },
-        {
-            "title": "Queer & Christian",
-            "url": "#queerChristian",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
-        },
-        {
-            "title": "The Bible",
-            "url": "#bible",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
-        }
-    ],
+    "main_menu": [],
     "title": "Queer Christian FAQ"
 }

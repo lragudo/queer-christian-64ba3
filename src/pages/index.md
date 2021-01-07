@@ -2,18 +2,40 @@
 title: Home
 white_header: true
 sections:
-  - type: hero_section
-    section_id: hero_section
-    background_image_opacity: 80
+  - section_id: lorem-ipsum
+    background_image_opacity: 0
     content: >-
-      # Queer Christians FAQ
+      # The Queer Christian FAQ
 
-      A site that strives to help answer frequently asked questions of queer
-      Christians. I hope this recources can help a few people with questions and
-      give some queers a break.
-    actions: []
-  - section_id: ''
-    headline: ''
+
+      explain the reason for this site and what it's about
+
+      This is not all inclusive but a place to begin to answer questions and
+      come to an understanding.
+    actions:
+      - title: LGBTQ+
+        url: '/#lgbtq'
+        style: secondary
+        arrow: false
+        type: action
+      - title: Queer & Christian
+        url: '/#queerChristian'
+        style: secondary
+        arrow: false
+        type: action
+      - title: The Bible
+        url: '/#bible'
+        style: secondary
+        arrow: false
+        type: action
+      - title: References
+        url: '/#references'
+        style: secondary
+        arrow: false
+        type: action
+    type: hero_section
+  - section_id: header
+    headline: words
     subtitle: ''
     type: header_section
   - section_id: '#lgbtq'
@@ -89,6 +111,14 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
+  - section_id: references
+    bulletpoints:
+      - title: References
+        description: |-
+          1. reference 
+          2. reference 
+          3. [reference ](https://www.qchristian.org/resources/theology)
+    type: bulletpoints_section
 template: home
 page_css_class: home
 ---

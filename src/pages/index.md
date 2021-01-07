@@ -2,10 +2,6 @@
 title: Home
 white_header: false
 sections:
-  - section_id: ''
-    headline: ''
-    subtitle: ''
-    type: header_section
   - section_id: '#lgbtq'
     headline: LGBTQ+ Community
     subtitle: >-

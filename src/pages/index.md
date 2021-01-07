@@ -93,7 +93,7 @@ sections:
     mapUrl: ''
     type: contact_section
   - section_id: lorem-ipsum
-    headline: lorem-ipsum
+    headline: The Bible on Homosexuality
     subtitle: >-
       ## Lorem ipsum
 

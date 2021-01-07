@@ -55,7 +55,7 @@ sections:
           college I had several crushes on girls that made it impossible to
           ignore. I am pansexual meaning that I am sexually and romantically
           attracted to all genders.
-      - question: What is the difference between
+      - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
 

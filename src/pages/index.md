@@ -9,7 +9,7 @@ sections:
     actions: []
     type: hero_section
   - section_id: header
-    headline: The Queer Christian FAQ
+    headline: words
     subtitle: ''
     type: header_section
   - section_id: '#lgbtq'

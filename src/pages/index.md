@@ -114,17 +114,10 @@ sections:
   - section_id: references
     bulletpoints:
       - title: References
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: |-
+          * reference 1
+          * reference 2
+          * reference 3
     type: bulletpoints_section
 template: home
 page_css_class: home

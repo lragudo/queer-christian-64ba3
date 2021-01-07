@@ -13,7 +13,7 @@ sections:
       give some queers a break.
     actions:
       - title: LGBTQ+
-        url: /store
+        url: \
         arrow: true
         style: primary
       - title: lorem-ipsum

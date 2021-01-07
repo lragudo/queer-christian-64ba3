@@ -13,7 +13,7 @@ sections:
       give some queers a break.
     actions:
       - title: LGBTQ+
-        url: ''
+        url: '#'
         arrow: false
         style: secondary
       - title: Queer + Christian

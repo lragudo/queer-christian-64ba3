@@ -22,7 +22,7 @@ sections:
         arrow: false
         type: action
   - section_id: ''
-    headline: lorem-ipsum
+    headline: ''
     subtitle: >-
       ## Lorem ipsum
 

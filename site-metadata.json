@@ -28,11 +28,6 @@
     },
     "main_menu": [
         {
-            "title": "About",
-            "url": "/about",
-            "style": "link"
-        },
-        {
             "title": "LGBTQ+",
             "url": "#lgbtq",
             "style": "primary",

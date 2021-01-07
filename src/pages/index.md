@@ -67,7 +67,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: 'What '
         answer: >-
           ## Lorem ipsum
 

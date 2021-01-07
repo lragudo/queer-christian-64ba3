@@ -34,17 +34,17 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
-  - section_id: contact
-    address: Feel free to contact us with question suggestions.
-    phone: ''
-    email: queerchristianfaq@gmail.com
-    mapUrl: ''
-    type: contact_section
   - section_id: question header
     headline: Queer and Christian
     subtitle: >-
       While many Christians see no problem with being queer and following God,
       many still believe that being queer and Christian can't mix.
     type: header_section
+  - section_id: contact
+    address: Feel free to contact us with question suggestions.
+    phone: ''
+    email: queerchristianfaq@gmail.com
+    mapUrl: ''
+    type: contact_section
 template: home
 ---

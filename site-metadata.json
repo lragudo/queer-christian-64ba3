@@ -34,7 +34,7 @@
         },
         {
             "title": "LGBTQ+",
-            "url": "lorem-ipsum",
+            "url": "#lgbtq",
             "style": "primary",
             "arrow": false,
             "type": "action"

@@ -6,10 +6,11 @@ sections:
     background_image_opacity: 0
     content: |-
       # The Queer Christian FAQ
-      ### To the queers
+
+      ## To the queers
       explain the website and why it was made for them.
 
-      ### To the family and friends who this was sent to
+      ## To the family and friends who this was sent to
       explain why I made this site to answer questions
     actions: []
     type: hero_section

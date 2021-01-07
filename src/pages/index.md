@@ -13,7 +13,7 @@ sections:
       This is not all inclusive but a place to begin to answer questions and
       come to an understanding.
     actions:
-      - title: lorem-ipsum
+      - title: LGBTQ+
         url: ''
         style: secondary
         arrow: false

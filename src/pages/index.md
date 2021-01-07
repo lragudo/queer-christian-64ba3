@@ -17,7 +17,7 @@ sections:
         arrow: false
         style: secondary
       - title: Queer + Christian
-        url: queerChrisitan
+        url: queerChristian
         style: secondary
         arrow: false
         type: action

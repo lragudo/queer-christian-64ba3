@@ -94,7 +94,9 @@ sections:
     type: contact_section
   - section_id: lorem-ipsum
     headline: The Bible on Homosexuality
-    subtitle: What does the Bible say on the topic?
+    subtitle: >-
+      What does the Bible really say on the topic? Let's look at the passages
+      that the church has used against queer Chrisitans,
     type: header_section
   - section_id: lorem-ipsum
     headline: lorem-ipsum

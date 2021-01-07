@@ -22,7 +22,7 @@ sections:
         arrow: false
         type: action
       - title: The Bible
-        url: '#'
+        url: '#bible'
         style: secondary
         arrow: false
         type: action

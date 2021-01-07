@@ -115,9 +115,9 @@ sections:
     bulletpoints:
       - title: References
         description: |-
-          * reference 1
-          * reference 2
-          * reference 3
+          1. reference 
+          2. reference 
+          3. [reference ](https://www.qchristian.org/resources/theology)
     type: bulletpoints_section
 template: home
 page_css_class: home

@@ -14,7 +14,7 @@ sections:
       come to an understanding.
     actions:
       - title: lorem-ipsum
-        url: LGBTQ+
+        url: ''
         style: secondary
         arrow: false
         type: action

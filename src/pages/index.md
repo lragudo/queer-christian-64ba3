@@ -16,7 +16,7 @@ sections:
         url: \
         arrow: false
         style: secondary
-      - title: lorem-ipsum
+      - title: Queer + Christian
         url: lorem-ipsum
         style: primary
         arrow: false

@@ -14,7 +14,7 @@ sections:
       come to an understanding.
     actions:
       - title: LGBTQ+
-        url: ''
+        url: /
         style: secondary
         arrow: false
         type: action

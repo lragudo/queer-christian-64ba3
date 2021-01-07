@@ -33,7 +33,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: lorem-ipsum
+      - question: What is the path that lead you to believe that you are queer?
         answer: >-
           ## Lorem ipsum
 

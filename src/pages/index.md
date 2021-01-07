@@ -23,7 +23,7 @@ sections:
         type: action
       - title: The Bible
         url: lorem-ipsum
-        style: primary
+        style: secondary
         arrow: false
         type: action
   - section_id: ''

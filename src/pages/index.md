@@ -91,7 +91,7 @@ sections:
       While many Christians see no problem with being queer and following God,
       many still believe that being queer and Christian can't mix.
     type: header_section
-  - section_id: Bible
+  - section_id: bible
     headline: The Bible on Homosexuality
     subtitle: >-
       What does the Bible really say on the topic? Let's look at the passages

@@ -21,7 +21,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: 'Bible '
+      - title: Bible
         url: lorem-ipsum
         style: primary
         arrow: false

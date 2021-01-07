@@ -23,7 +23,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: lorem-ipsum
+      - title: The Bible
         url: lorem-ipsum
         style: primary
         arrow: false

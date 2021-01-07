@@ -18,7 +18,7 @@ sections:
         style: secondary
       - title: Queer + Christian
         url: lorem-ipsum
-        style: link
+        style: secondary
         arrow: false
         type: action
   - section_id: The LGBTQ+ Community

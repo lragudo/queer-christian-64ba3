@@ -24,7 +24,7 @@ sections:
       - title: The Bible
         url: lorem-ipsum
         style: secondary
-        arrow: false
+        arrow: true
         type: action
   - section_id: ''
     headline: ''

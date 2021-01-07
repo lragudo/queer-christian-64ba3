@@ -20,7 +20,7 @@ sections:
         type: action
       - title: Queer & Christian
         url: '/#queerChristian'
-        style: primary
+        style: secondary
         arrow: false
         type: action
     type: hero_section

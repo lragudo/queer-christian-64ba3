@@ -43,16 +43,8 @@ sections:
   - section_id: question header
     headline: Queer and Christian
     subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      While many Christians see no problem with being queer and following God,
+      many still believe that being queer and Christian can't mix.
     type: header_section
 template: home
 ---

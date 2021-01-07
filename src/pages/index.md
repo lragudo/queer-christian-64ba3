@@ -2,7 +2,7 @@
 title: Home
 white_header: true
 sections:
-  - section_id: The Queer Christian FAQ
+  - section_id: header
     headline: The Queer Christian FAQ
     subtitle: >-
       ## Lorem ipsum

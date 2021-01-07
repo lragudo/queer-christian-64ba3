@@ -29,7 +29,7 @@ sections:
         arrow: false
         type: action
       - title: References
-        url: '/#references'
+        url: '#references'
         style: secondary
         arrow: false
         type: action

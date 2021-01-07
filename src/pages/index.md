@@ -111,6 +111,9 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: home
 page_css_class: home
 ---

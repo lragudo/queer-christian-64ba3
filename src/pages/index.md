@@ -11,7 +11,21 @@ sections:
       A site that strives to help answer frequently asked questions of queer
       Christians. I hope this recources can help a few people with questions and
       give some queers a break.
-    actions: []
+    actions:
+      - title: LGBTQ+
+        url: '#lgbtq'
+        arrow: false
+        style: secondary
+      - title: Queer + Christian
+        url: queerChristian
+        style: secondary
+        arrow: false
+        type: action
+      - title: The Bible
+        url: '#bible'
+        style: secondary
+        arrow: false
+        type: action
   - section_id: ''
     headline: ''
     subtitle: ''

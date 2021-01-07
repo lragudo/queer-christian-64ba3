@@ -33,16 +33,6 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: What is the path that lead you to believe that you are queer?
-        answer: >-
-          ## Lillian R
-
-          Compulsatory heterosexuality caused me to ignore and supress my
-          sexuality. I knew since at least highschool that I wasn't straight,
-          however I believed this to be a sin and refused to acknowledge it. In
-          college I had several crushes on girls that made it impossible to
-          ignore. I am pansexual meaning that I am sexually and romantically
-          attracted to all genders.
       - question: The letters explained
         answer: >-
           ## Lorem ipsum
@@ -55,6 +45,16 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+      - question: What is the path that lead you to believe that you are queer?
+        answer: >-
+          ## Lillian R
+
+          Compulsatory heterosexuality caused me to ignore and supress my
+          sexuality. I knew since at least highschool that I wasn't straight,
+          however I believed this to be a sin and refused to acknowledge it. In
+          college I had several crushes on girls that made it impossible to
+          ignore. I am pansexual meaning that I am sexually and romantically
+          attracted to all genders.
     type: faq_section
   - section_id: question header
     headline: Queer and Christian

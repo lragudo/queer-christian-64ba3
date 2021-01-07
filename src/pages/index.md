@@ -17,11 +17,6 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: The Bible
-        url: '#bible'
-        style: secondary
-        arrow: false
-        type: action
   - section_id: ''
     headline: ''
     subtitle: ''

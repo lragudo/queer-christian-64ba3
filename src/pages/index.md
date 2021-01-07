@@ -5,7 +5,7 @@ sections:
   - section_id: lorem-ipsum
     background_image_opacity: 0
     content: >-
-      ## Lorem ipsum
+      # The Queer Christian FAQ
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do

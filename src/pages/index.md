@@ -21,6 +21,11 @@ sections:
         style: secondary
         arrow: false
         type: action
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
   - section_id: ''
     headline: ''
     subtitle: ''

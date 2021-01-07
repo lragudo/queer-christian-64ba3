@@ -30,7 +30,7 @@ sections:
     headline: ''
     subtitle: ''
     type: header_section
-  - section_id: lgbtq
+  - section_id: '#lgbtq'
     headline: LGBTQ+ Community
     subtitle: >-
       Basic info about the differences between pansexual and bisexual. What the

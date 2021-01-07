@@ -24,16 +24,8 @@ sections:
   - section_id: The LGBTQ+ Community
     headline: LGBTQ+ Community
     subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Basic info about the differences between pansexual and bisexual. What the
+      heck does asexual mean? And some other basic about what being queer means.
     type: header_section
   - section_id: faq
     questions: []

@@ -14,7 +14,7 @@ sections:
     actions:
       - title: LGBTQ+
         url: \
-        arrow: true
+        arrow: false
         style: secondary
       - title: lorem-ipsum
         url: lorem-ipsum

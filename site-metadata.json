@@ -28,13 +28,6 @@
     },
     "main_menu": [
         {
-            "title": "LGBTQ+",
-            "url": "#lgbtq",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
-        },
-        {
             "title": "The Bible",
             "url": "#bible",
             "style": "primary",

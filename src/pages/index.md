@@ -2,7 +2,7 @@
 title: Home
 white_header: true
 sections:
-  - section_id: ''
+  - section_id: home
     background_image_opacity: 0
     content: >-
       # The Queer Christian FAQ

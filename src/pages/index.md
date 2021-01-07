@@ -12,10 +12,6 @@ sections:
       Christians. I hope this recources can help a few people with questions and
       give some queers a break.
     actions:
-      - title: LGBTQ+
-        url: '#lgbtq'
-        arrow: false
-        style: secondary
       - title: Queer + Christian
         url: queerChristian
         style: secondary

@@ -41,7 +41,7 @@ sections:
     mapUrl: ''
     type: contact_section
   - section_id: question header
-    headline: lorem-ipsum
+    headline: Queer and Christian
     subtitle: >-
       ## Lorem ipsum
 

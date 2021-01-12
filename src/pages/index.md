@@ -198,7 +198,7 @@ sections:
           genitalia, chromosomes, gonads, internal sex organs, hormone
           production, hormone response, and/or secondary sex traits.
 
-      - question: What is the difference between sex and gender?
+      - question: What is attraction and how do you know for sure?
         answer: >-
           ## Lorem ipsum
 
@@ -210,7 +210,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What is attraction and how do you know for sure?
+      - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
 

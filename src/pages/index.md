@@ -204,7 +204,7 @@ sections:
           having a crush on someone right? Feeling like you just want to hang
           out with them, talk with them, be more than friends, all that right?
           Though that is an element of attraction, the real answer is a lot more
-          nuanced than people realize. 
+          nuanced than people realize.
 
 
           There are five different types of attraction. Sexual, romantic,
@@ -225,7 +225,7 @@ sections:
 
           *   Sensual: Attraction based on the idea of non-sexual physical
           contact. It is defined as a desire to cuddle, hug, and to be close to
-          someone in a non-sexual way. 
+          someone in a non-sexual way.
 
 
           *   Platonic: Attraction defined by the desire to be friends with

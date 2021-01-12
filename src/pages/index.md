@@ -52,20 +52,19 @@ sections:
 
 
           *   Sexual/romantic orientation: An inherent or immutable enduring
-          emotional, romantic or sexual
+          emotional, romantic or sexual** attraction to other people**. Note: an
+          individual’s sexual orientation is independent of their gender
+          identity.
 
-              ** attraction to other people**
-
-              . Note: an individual’s sexual orientation is independent of their gender identity.
 
           *   Lesbian: A woman who is emotionally, romantically or sexually
           attracted to other women Women and non-binary people may use this term
           to describe themselves.
 
 
-          *   Gay: A person who is emotionally, romantically or sexually 
+          *   Gay: A person who is emotionally, romantically or sexually
 
-              **attracted to members of the same gender**
+              ** attracted to members of the same gender**
 
               . Men, women and non-binary people may use this term to describe themselves.
 
@@ -73,13 +72,19 @@ sections:
 
               : A person emotionally, romantically or sexually attracted to more than one sex, gender or gender identity though not necessarily simultaneously, in the same way or to the same degree. People may experience this attraction in differing ways and degrees over their lifetime. Bisexual people need not have had specific sexual experiences to be bisexual; in fact, they need not have had any sexual experience at all to identify as bisexual. Sometimes used interchangeably with pansexual.
 
-          *   **Pansexual: **
+          *   \**Pansexual: **Describes someone who has the potential for
+          emotional, romantic or sexual attraction to people of all genders
+          though not necessarily simultaneously, in the same way or to the same
+          degree. People may experience this attraction in differing ways and
+          degrees over their lifetime. Pansexual people need not have had
+          specific sexual experiences to be pansexual; in fact, they need not
+          have had any sexual experience at all to identify as pansexual.
+          Sometimes used interchangeably with bisexual.
 
-              Describes someone who has the potential for emotional, romantic or sexual attraction to people of all genders though not necessarily simultaneously, in the same way or to the same degree. People may experience this attraction in differing ways and degrees over their lifetime. Pansexual people need not have had specific sexual experiences to be pansexual; in fact, they need not have had any sexual experience at all to identify as pansexual. Sometimes used interchangeably with bisexual.
 
           *   **Queer:**
 
-               A term people often use to express a spectrum of identities and orientations that are counter to the mainstream. Queer is often used as a catch-all to include many people, including those who do not identify as exclusively straight and/or folks who have non-binary or genderexpansive identities. This term was previously used as a slur, but has been reclaimed by many parts of the LGBTQ movement.
+              A term people often use to express a spectrum of identities and orientations that are counter to the mainstream. Queer is often used as a catch-all to include many people, including those who do not identify as exclusively straight and/or folks who have non-binary or genderexpansive identities. This term was previously used as a slur, but has been reclaimed by many parts of the LGBTQ movement.
 
           # Sexual & Romantic Attraction
 
@@ -128,7 +133,7 @@ sections:
 
           *   **Asexual:**
 
-               An adjective used to describe people who do not experience sexual attraction.
+              An adjective used to describe people who do not experience sexual attraction.
 
           *   Graysexual: An adjective used to describe people who experience
           some or little sexual attraction.
@@ -146,17 +151,18 @@ sections:
           are known as aromantic.
 
 
-          *   **Aromantic: **
+          *   Aromantic: An adjective used to describe people who do not
+          experience romantic attraction.
 
-              An adjective used to describe people who do not experience romantic attraction.
 
           *   Grayromantic: An adjective used to describe people who experience
           some or little romantic attraction.
 
 
-          *   **Demiromantic: **
+          *   Demiromantic:  An adjective used to describe people who only
+          experience romantic attraction to an individual after an emotional
+          connection has been established.
 
-              An adjective used to describe people who only experience romantic attraction to an individual after an emotional connection has been established.
 
           Some individuals identify as both aesexual and aeromantic. Some
           identify as neither. Regardless of what identity people feel

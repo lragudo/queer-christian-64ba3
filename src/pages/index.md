@@ -335,7 +335,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What do the passa
+      - question: What are the passages on homosexuality in the Bible?
         answer: >-
           ## Lorem ipsum
 

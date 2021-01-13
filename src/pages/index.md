@@ -353,11 +353,7 @@ sections:
     headline: At the End of the Day
     subtitle: ''
     type: header_section
-  - section_id: references
-    headline: References
-    subtitle: ''
-    type: header_section
-  - section_id: faq6
+  - section_id: faq5
     questions:
       - question: lorem-ipsum
         answer: >-
@@ -372,7 +368,11 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: faq5
+  - section_id: references
+    headline: References
+    subtitle: ''
+    type: header_section
+  - section_id: faq6
     questions:
       - question: lorem-ipsum
         answer: >-

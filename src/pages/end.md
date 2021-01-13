@@ -4,7 +4,7 @@ page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: end
-    headline: Queer and Christian
+    headline: At the End of the Day
     subtitle: >
       While many Christians see no problem with being queer and following God,
       many still believe that being queer and Christian can't mix.

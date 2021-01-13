@@ -187,4 +187,24 @@
     }
   }
 }
+#faq5{
+  .faq{
+    &__question{
+    color: #4D87E7;
+    }
+    &__answer h1{
+      color: #4D87E7;
+    }
+  }
+}
 
+#faq6{
+  .faq{
+    &__question{
+    color: #8B55E4;
+    }
+    &__answer h1{
+      color: #8B55E4;
+    }
+  }
+}

@@ -278,7 +278,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: ''
+      - question: What is a Christian?
         answer: >-
           ## Lorem ipsum
 

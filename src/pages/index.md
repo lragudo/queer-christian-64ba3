@@ -357,6 +357,9 @@ sections:
     headline: References
     subtitle: ''
     type: header_section
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 template: home
 page_css_class: home
 ---

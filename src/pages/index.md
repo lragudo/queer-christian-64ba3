@@ -5,12 +5,15 @@ sections:
   - section_id: faq2
     questions:
       - question: LGBTQ+ Explained
-        answer: >-
-          ## Lorem ipsum
+        answer: |+
+          ## So what do all those letters mean?
 
+          ## What is attraction and how do you know for sure?
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ## What is the difference between sex and gender?
+
+          ## What is the path that lead you to believe that you are queer?
+
     type: faq_section
   - section_id: faq3
     questions:

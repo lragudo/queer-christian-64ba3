@@ -10,7 +10,7 @@ sections:
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions for e-commerce merchants.
   - type: faq_section
-    section_id: faq_section
+    section_id: faq2
     questions:
       - question: How long does shipping take?
         answer: >-

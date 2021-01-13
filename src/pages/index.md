@@ -44,7 +44,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: The letters explained
+      - question: 'So what '
         answer: >-
           ## Lorem ipsum
 

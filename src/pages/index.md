@@ -323,7 +323,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: lorem-ipsum
+      - question: Was the Bible mistranslated?
         answer: >-
           ## Lorem ipsum
 

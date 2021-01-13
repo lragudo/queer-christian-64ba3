@@ -5,23 +5,8 @@ white_header: false
 sections:
   - section_id: end
     headline: At the End of the Day
-    subtitle: >
-      While many Christians see no problem with being queer and following God,
-      many still believe that being queer and Christian can't mix.
-
-
-      > ## Does believing in God make you a Christian?
-
-
-      > ## What is a Christian?
-
-      >
-
-      > ## What are the core beliefs of Christians?
-
-      >
-
-      > ## What does it mean to love God and my neighbor?
+    subtitle: |
+      ##
     type: header_section
   - section_id: faq5
     questions:

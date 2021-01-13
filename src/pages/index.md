@@ -92,10 +92,6 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: end
-    headline: At the End of the Day
-    subtitle: ''
-    type: header_section
   - section_id: faq5
     questions:
       - question: lorem-ipsum

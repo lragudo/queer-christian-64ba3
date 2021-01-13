@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: LGBTQ+ Explained
 page_css_class: gray-background
 sections:
   - type: header_section

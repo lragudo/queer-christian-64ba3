@@ -353,7 +353,7 @@ sections:
     headline: At the End of the Day
     subtitle: ''
     type: header_section
-  - section_id: end
+  - section_id: end-content
     bulletpoints:
       - title: At the End of the Day
         description: >-

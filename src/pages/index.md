@@ -6,7 +6,12 @@ sections:
     background_image_opacity: 0
     content: |
       # Queer Christian FAQ
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
   - section_id: lgbtq
     headline: LGBTQ+ Explained

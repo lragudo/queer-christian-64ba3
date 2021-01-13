@@ -88,9 +88,6 @@ sections:
           you may come across.
 
 
-          ****
-
-
           **Asexual**: An adjective used to describe people who do not
           experience sexual attraction.
 
@@ -104,15 +101,13 @@ sections:
           connection has been established.
 
 
-
-
           Romantic attraction is also a spectrum. Much like sexual attraction,
           some experience romantic attraction differently than others. Those who
           experience romantic attraction are known as alloromantic. Those who
           experience little to no romantic attraction are known as aromantic.
 
 
-          ****
+          ***
 
 
           **Aromantic**: An adjective used to describe people who do not
@@ -126,8 +121,6 @@ sections:
           **Demiromantic**: An adjective used to describe people who only
           experience romantic attraction to an individual after an emotional
           connection has been established.
-
-
 
 
           Some individuals identify as both aesexual and aeromantic. Some

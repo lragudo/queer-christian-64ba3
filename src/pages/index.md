@@ -45,15 +45,12 @@ sections:
   - section_id: faq
     questions:
       - question: So what do all those letters mean?
-        answer: >+
+        answer: >
           # Sexual & Romantic Orientation
 
 
-          *   Sexual/romantic orientation: An inherent or immutable enduring
-          emotional, romantic or sexual attraction to other people. Note: an
-          individual’s sexual orientation is independent of their gender
-          identity.
-
+          *   **Sexual/romantic orientation**
+              : An inherent or immutable enduring emotional, romantic or sexual attraction to other people. Note: an individual’s sexual orientation is independent of their gender identity.
 
           *   Lesbian: A woman who is emotionally, romantically or sexually
           attracted to other women. Women and non-binary people may use this
@@ -62,7 +59,7 @@ sections:
 
           *   Gay: A person who is emotionally, romantically or sexually
           attracted to members of the same gender. Men, women and non-binary
-          people may use this term to describe themselves. 
+          people may use this term to describe themselves.
 
 
           *   Bisexual: A person emotionally, romantically or sexually attracted
@@ -73,7 +70,6 @@ sections:
           experiences to be bisexual; in fact, they need not have had any sexual
           experience at all to identify as bisexual. Sometimes used
           interchangeably with pansexual.
-
       - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum

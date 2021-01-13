@@ -3,7 +3,7 @@ title: end of the day
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: references
+  - section_id: end
     headline: References
     subtitle: >
       What does the Bible really say on the topic? Let's look at the passages

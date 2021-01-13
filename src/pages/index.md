@@ -29,7 +29,7 @@ sections:
         type: action
       - title: At the End of the Day
         url: '#end'
-        style: primary
+        style: secondary
         arrow: false
         type: action
     type: hero_section

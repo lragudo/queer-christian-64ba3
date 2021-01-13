@@ -23,7 +23,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: What is a Christian?
         answer: >-
           ## Lorem ipsum
 

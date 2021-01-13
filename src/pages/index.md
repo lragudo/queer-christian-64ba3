@@ -19,7 +19,6 @@ sections:
         type: action
       - title: The Bible on Homosexuality
         url: '#bible'
-
         style: secondary
         arrow: false
         type: action
@@ -40,7 +39,7 @@ sections:
       Basic info about the differences between pansexual and bisexual. What the
       heck does asexual mean? And some other basic about what being queer means.
     type: header_section
-  - section_id: faq
+  - section_id: faq2
     questions:
       - question: The letters explained
         answer: >-
@@ -49,9 +48,6 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
       - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
@@ -59,9 +55,6 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
       - question: What is attraction and how do you know for sure?
         answer: >-
           ## Lorem ipsum
@@ -69,7 +62,6 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
       - question: What is the path that lead you to believe that you are queer?
         answer: >-
           ## Lillian R
@@ -108,14 +100,11 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
     type: bulletpoints_section
   - section_id: references
     bulletpoints:
       - title: References
-        description: |-
-
+        description: ''
     type: bulletpoints_section
 template: home
 page_css_class: home

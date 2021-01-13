@@ -62,7 +62,7 @@
         },
         {
             "title": "lorem-ipsum",
-            "url": "cont",
+            "url": "/contact",
             "style": "primary",
             "arrow": false,
             "type": "action"

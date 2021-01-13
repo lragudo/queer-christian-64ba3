@@ -192,12 +192,12 @@ sections:
           genitalia, chromosomes, gonads, internal sex organs, hormone
           production, hormone response, and/or secondary sex traits.
       - question: What is attraction and how do you know for sure?
-        answer: >+
-          What is attraction? At face value, the answer might seem obvious. It's
-          having a crush on someone right? Feeling like you just want to hang
-          out with them, talk with them, be more than friends, all that right?
-          Though that is an element of attraction, the real answer is a lot more
-          nuanced than people realize. 
+        answer: >
+          At face value, the answer might seem obvious. It's having a crush on
+          someone right? Feeling like you just want to hang out with them, talk
+          with them, be more than friends, all that right? Though that is an
+          element of attraction, the real answer is a lot more nuanced than
+          people realize.
 
 
           There are five different types of attraction. Sexual, romantic,
@@ -218,7 +218,7 @@ sections:
 
           **Sensual**: Attraction based on the idea of non-sexual physical
           contact. It is defined as a desire to cuddle, hug, and to be close to
-          someone in a non-sexual way. 
+          someone in a non-sexual way.
 
 
           **Platonic**: Attraction defined by the desire to be friends with
@@ -240,7 +240,6 @@ sections:
           person. This is part of what makes sorting through feelings for others
           difficult and confusing. Hopefully these five categories may help when
           it comes to determining how we feel about another person.
-
       - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum

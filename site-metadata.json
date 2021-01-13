@@ -27,7 +27,7 @@
     "main_menu": [
         {
             "title": "LGBTQ+",
-            "url": "/",
+            "url": "/faq",
             "style": "primary",
             "arrow": false,
             "type": "action"

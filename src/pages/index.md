@@ -272,7 +272,7 @@ sections:
     type: faq_section
   - section_id: faq4
     questions:
-      - question: Was the Bible mistranslated?
+      - question: ''
         answer: >-
           ## Lorem ipsum
 

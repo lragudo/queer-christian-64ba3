@@ -22,6 +22,7 @@
     display: flex;
     margin-left: auto;
     margin-right: auto;
+    color: #fff;
   }
 
   &__menu-item {
@@ -40,7 +41,7 @@
   }
 
   &__logo {
-    width: 25%;
+    display: none;
   }
   &__logo-image {
     height: 45px;
@@ -56,7 +57,7 @@
   }
 
   &__right {
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     margin-left: auto;
@@ -65,7 +66,8 @@
   }
 
   &--dark {
-    color: $color_dark;
+    background: #333
+    padding: 1em;
     .hamburger__icon-path {
       fill: $color_dark;
     }
@@ -110,7 +112,6 @@
   left: 0;
   right: 0;
   z-index: 10;
-  padding-top: 50px;
   margin-left: auto;
   margin-right: auto;
   @include smaller-than-tablet {

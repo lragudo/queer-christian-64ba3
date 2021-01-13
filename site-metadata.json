@@ -48,7 +48,7 @@
         },
         {
             "title": "End of the Day",
-            "url": "lorem-ipsum",
+            "url": "/end",
             "style": "primary",
             "arrow": false,
             "type": "action"

@@ -41,7 +41,7 @@
         },
         {
             "title": "Bible on Homosexuality",
-            "url": "bible",
+            "url": "/bible",
             "style": "primary",
             "arrow": false,
             "type": "action"

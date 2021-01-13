@@ -27,7 +27,7 @@
     "main_menu": [
         {
             "title": "LGBTQ+",
-            "url": "lorem-ipsum",
+            "url": "/",
             "style": "primary",
             "arrow": false,
             "type": "action"

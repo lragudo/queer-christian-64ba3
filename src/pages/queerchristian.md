@@ -49,7 +49,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsumWhat are the core beliefs of Christians?
+      - question: What are the core beliefs of Christians?
         answer: >-
           ## Lorem ipsum
 

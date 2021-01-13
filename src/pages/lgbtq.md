@@ -175,7 +175,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What is the difference between sex and gender?
+      - question: What is the path that lead you to believe that you are queer?
         answer: >-
           ## Lorem ipsum
 

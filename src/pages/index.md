@@ -364,7 +364,7 @@ sections:
       - title: References
         description: ''
     type: bulletpoints_section
-  - section_id: lorem-ipsum
+  - section_id: end
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

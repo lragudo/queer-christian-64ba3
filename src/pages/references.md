@@ -15,7 +15,7 @@ sections:
 
       > # What are the passages on homosexuality in the Bible?
     type: header_section
-  - section_id: faq5
+  - section_id: faq6
     questions:
       - question: Was the Bible mistranslated?
         answer: >-

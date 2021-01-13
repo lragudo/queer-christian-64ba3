@@ -278,7 +278,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: ''
         answer: >-
           ## Lorem ipsum
 

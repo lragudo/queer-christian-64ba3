@@ -28,18 +28,6 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What is a Christian?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
       - question: What are the core beliefs of Christians?
         answer: >-
           ## Lorem ipsum

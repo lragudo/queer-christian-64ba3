@@ -7,7 +7,7 @@ sections:
     headline: Contact
     subtitle: ''
     type: header_section
-  - section_id: faq6
+  - section_id: faq7
     questions:
       - question: Does believing in God make you a Christian?
         answer: >

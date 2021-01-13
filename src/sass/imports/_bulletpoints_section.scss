@@ -4,7 +4,11 @@
 
 .bulletpoint {
   &__section {
+    text-align: center;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     max-width: 1000px;
     margin-bottom: 100px;
     overflow: hidden;

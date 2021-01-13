@@ -207,17 +207,6 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      - question: What is the path that lead you to believe that you are queer?
-        answer: |
-          Add some personal stories
-
-          ***
-
-          ***
-
-          ***
-
-          **ff**
     type: faq_section
   - section_id: faq3
     questions:

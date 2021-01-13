@@ -73,7 +73,6 @@ sections:
 
               : A term people often use to express a spectrum of identities and orientations that are counter to the mainstream. Queer is often used as a catch-all to include many people, including those who do not identify as exclusively straight and/or folks who have non-binary or genderexpansive identities. This term was previously used as a slur, but has been reclaimed by many parts of the LGBTQ movement.
 
-          #
 
 
           # Sexual & Romantic Attraction

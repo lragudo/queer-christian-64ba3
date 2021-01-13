@@ -6,14 +6,27 @@ sections:
   - section_id: lgbtq
     headline: LGBTQ+ Explained
     subtitle: >
-      What does the Bible really say on the topic? Let's look at the passages
-      that the church has used against queer Chrisitans,
+      Just like anything else we need language and words to communicate to each
+      other successfully. We make up new words all the time whether casually or
+      for a profession or industry. We can’t interact or communicate
+      successfully without language, so please take the time to learn some new
+      words so you can interact and understand other people better. 
 
 
-      > # Was the Bible mistranslated?
 
 
-      > # What are the passages on homosexuality in the Bible?
+      > ## So what do all those letters mean?
+
+
+      > ## What is attraction and how do you know for sure?
+
+      >
+
+      > ## What is the difference between sex and gender?
+
+      >
+
+      > ## What is the path that lead you to believe that you are queer?
     type: header_section
   - section_id: faq4
     questions:

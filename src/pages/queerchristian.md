@@ -11,7 +11,7 @@ sections:
     type: header_section
   - section_id: faq3
     questions:
-      - question: Does
+      - question: Does believing in God make you a Christian?
         answer: >-
           ## Lorem ipsum
 

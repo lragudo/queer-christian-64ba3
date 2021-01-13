@@ -365,7 +365,7 @@ sections:
         description: ''
     type: bulletpoints_section
   - section_id: end
-    headline: lorem-ipsum
+    headline: At the End of the Day
     subtitle: >-
       ## Lorem ipsum
 

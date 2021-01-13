@@ -4,7 +4,7 @@ white_header: true
 sections:
   - section_id: faq2
     questions:
-      - question: What is the difference between sex and gender?
+      - question: ''
         answer: >-
           ## Lorem ipsum
 

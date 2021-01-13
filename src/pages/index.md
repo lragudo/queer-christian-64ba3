@@ -266,7 +266,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: Does bel
+      - question: Does believing in God make you a Christian?
         answer: >-
           ## Lorem ipsum
 

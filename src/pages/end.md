@@ -5,8 +5,7 @@ white_header: false
 sections:
   - section_id: end
     headline: At the End of the Day
-    subtitle: |
-      #
+    subtitle: ''
     type: header_section
   - section_id: faq5
     questions:

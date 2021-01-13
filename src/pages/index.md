@@ -6,8 +6,6 @@ sections:
     questions:
       - question: So what do all those letters mean?
         answer: ''
-      - question: What is attraction and how do you know for sure?
-        answer: ''
       - question: What is the difference between sex and gender?
         answer: ''
       - question: What is the path that lead you to believe that you are queer?

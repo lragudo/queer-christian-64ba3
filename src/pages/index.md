@@ -284,18 +284,6 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What are the passages on homosexuality in the Bible?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
     type: faq_section
   - section_id: faq5
     questions:

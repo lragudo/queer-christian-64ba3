@@ -4,7 +4,7 @@ page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: references
-    headline: Queer & Christian
+    headline: References
     subtitle: >
       What does the Bible really say on the topic? Let's look at the passages
       that the church has used against queer Chrisitans,

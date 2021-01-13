@@ -23,7 +23,7 @@ sections:
         arrow: false
         type: action
       - title: References
-        url: lorem-ipsum
+        url: '#references'
         style: primary
         arrow: false
         type: action

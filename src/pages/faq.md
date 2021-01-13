@@ -5,7 +5,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: LGBT
+    headline: LGBTQ+ Explained
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
       frequently asked questions for e-commerce merchants.

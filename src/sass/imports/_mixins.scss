@@ -10,8 +10,8 @@
   max-width: $spacing--max-width;
 
   @include smaller-than-max-width {    
-    padding-left: 50px;
-    padding-right: 50px; 
+    padding-left: 0;
+    padding-right: 0; 
   }
 
   @include smaller-than-tablet { 

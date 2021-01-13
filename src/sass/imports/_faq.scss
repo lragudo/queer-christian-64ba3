@@ -2,9 +2,6 @@
   &__section {
     max-width: 85%;
     margin: 0 auto;
-    &:nth-child(-n + 2) {
-      margin-top: $spacing--unit*3;
-    }
   }
 
   &__question {
@@ -29,7 +26,6 @@
       margin-right: auto;
       margin-top: 50px;
       display: block;
-      background: $color_light_grey;
       height: 1px;
       width: 100%;
     }
@@ -157,3 +153,20 @@
     margin-left: $spacing--unit*8;
   }
 }
+
+#faq2{
+  .faq__question{
+    color: #FF8A00;
+  }
+}
+#faq3{
+  .faq__question{
+    color: #FFC700;
+  }
+}
+#faq4{
+  .faq__question{
+    color: #74DB5F;
+  }
+}
+

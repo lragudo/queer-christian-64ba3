@@ -9,5 +9,8 @@ sections:
     email: QueerChristianFAQ@gmail.com
     mapUrl: Instagram
     type: contact_section
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 template: advanced
 ---

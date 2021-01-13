@@ -57,7 +57,7 @@
     font-family: $font_family_primairy;
     font-size: 42px;
     margin-bottom: $spacing--unit*3;
-    color: $color_dark_grey;
+    color: #fff;
     margin-top: 75px;
     @include smaller-than-tablet {
       margin-top: 50px;
@@ -80,5 +80,15 @@
       min-width: 100%;
       max-width: 0;
     }
+  }
+}
+#end{
+  .bulletpoint__section-title{
+    background: #4D87E7;
+  }
+}
+#references{
+  .bulletpoint__section-title{
+    background: #8B55E4;
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: queer christian
+title: end of the day
 page_css_class: queerChristian
 white_header: false
 sections:

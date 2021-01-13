@@ -243,34 +243,25 @@ sections:
           commonly associated with the word attraction.
 
 
-          *   Sexual: Attraction on the basis of sexual desire. Many of us have
-          experienced this to some degree. We see a person we find attractive
-          and feel a sexual desire toward them.
+          *   **Sexual**
+              : Attraction on the basis of sexual desire. Many of us have experienced this to some degree. We see a person we find attractive and feel a sexual desire toward them.
+
+          <!---->
 
 
-          *   Romantic: Attraction based on the desire for romantic interactions
-          or relationships with another person. Think of something along the
-          lines of wanting to buy someone flowers, chocolates, and to shower
-          them with affection.
-
+          *   **Romantic**
+              : Attraction based on the desire for romantic interactions or relationships with another person. Think of something along the lines of wanting to buy someone flowers, chocolates, and to shower them with affection.
 
           *   Sensual: Attraction based on the idea of non-sexual physical
           contact. It is defined as a desire to cuddle, hug, and to be close to
           someone in a non-sexual way.
 
 
-          *   Platonic: Attraction defined by the desire to be friends with
-          another person. It’s wanting to hang out, go out to eat, play games,
-          and live life together in a platonic friend-like relationship.
+          *   **Platonic**
+              : Attraction defined by the desire to be friends with another person. It’s wanting to hang out, go out to eat, play games, and live life together in a platonic friend-like relationship.
 
-
-          *   Aesthetic: Attraction defined as attraction simply based on
-          appearance. This is probably the most simple type of attraction. It is
-          as simple as noticing that a person looks aesthetically pleasing. It
-          can be as simple as noticing “That person is pretty.”
-
-
-
+          *   **Aesthetic**
+              : Attraction defined as attraction simply based on appearance. This is probably the most simple type of attraction. It is as simple as noticing that a person looks aesthetically pleasing. It can be as simple as noticing “That person is pretty.”
 
           We often experience combinations of these types of attractions in our
           relationships with other people. We see this in both friendships and

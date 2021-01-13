@@ -2,37 +2,6 @@
 title: Home
 white_header: true
 sections:
-  - section_id: header-nav
-    background_image_opacity: 0
-    content: |
-      # Queer Christian FAQ
-    actions:
-      - title: LGBTQ+ Explained
-        url: '#lgbtq'
-        style: secondary
-        arrow: false
-        type: action
-      - title: Queer & Christian
-        url: '/#queerChristian'
-        style: secondary
-        arrow: false
-        type: action
-      - title: The Bible on Homosexuality
-        url: '#bible'
-        style: secondary
-        arrow: false
-        type: action
-      - title: References
-        url: '/#references'
-        style: secondary
-        arrow: false
-        type: action
-      - title: At the End of the Day
-        url: '#end'
-        style: secondary
-        arrow: false
-        type: action
-    type: hero_section
   - section_id: lgbtq
     headline: LGBTQ+ Explained
     subtitle: >

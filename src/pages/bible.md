@@ -1,5 +1,5 @@
 ---
-title: Queer & Christian
+title: Bible on Homosexuality
 page_css_class: queerChristian
 white_header: false
 sections:

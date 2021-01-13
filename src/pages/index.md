@@ -13,7 +13,7 @@ sections:
         arrow: false
         type: action
       - title: Queer & Christian
-        url: lorem-ipsum
+        url: '#queerChristian'
         style: primary
         arrow: false
         type: action

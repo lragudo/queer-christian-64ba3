@@ -6,8 +6,6 @@ sections:
     questions:
       - question: So what do all those letters mean?
         answer: ''
-      - question: What is the path that lead you to believe that you are queer?
-        answer: ''
     type: faq_section
   - section_id: faq3
     questions:

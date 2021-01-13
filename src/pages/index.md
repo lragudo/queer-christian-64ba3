@@ -36,7 +36,7 @@ sections:
     type: faq_section
   - section_id: faq5
     questions:
-      - question: lorem-ipsum
+      - question: ''
         answer: >-
           ## Lorem ipsum
 

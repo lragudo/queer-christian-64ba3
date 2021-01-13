@@ -1,6 +1,6 @@
 ---
 title: Home
-white_header: false
+white_header: true
 sections:
   - section_id: faq2
     questions:

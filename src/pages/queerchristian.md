@@ -11,7 +11,7 @@ sections:
     type: header_section
   - section_id: faq3
     questions:
-      - question: lorem-ipsum
+      - question: Does
         answer: >-
           ## Lorem ipsum
 

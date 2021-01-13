@@ -44,7 +44,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: 'So what '
+      - question: So what do all those letters mean?
         answer: >-
           ## Lorem ipsum
 

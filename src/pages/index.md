@@ -49,10 +49,12 @@ sections:
           # Sexual & Romantic Orientation
 
 
-          **Sexual/romantic orientation**: An inherent or immutable enduring
-          emotional, romantic or sexual attraction to other people. Note: an
-          individual’s sexual orientation is independent of their gender
-          identity.
+          ## **Sexual/romantic orientation**: 
+
+
+          An inherent or immutable enduring emotional, romantic or sexual
+          attraction to other people. Note: an individual’s sexual orientation
+          is independent of their gender identity.
 
 
           **Lesbian**: A woman who is emotionally, romantically or sexually

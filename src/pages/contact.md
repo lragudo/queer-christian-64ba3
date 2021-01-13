@@ -4,7 +4,7 @@ page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: references
-    headline: References
+    headline: Contact
     subtitle: ''
     type: header_section
   - section_id: faq6

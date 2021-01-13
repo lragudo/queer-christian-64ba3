@@ -16,7 +16,7 @@ sections:
     type: faq_section
   - section_id: faq3
     questions:
-      - question: Does believing in God make you a Christian?
+      - question: Queer and Christian
         answer: >-
           ## Lorem ipsum
 

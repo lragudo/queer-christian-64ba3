@@ -272,7 +272,7 @@ sections:
     type: faq_section
   - section_id: faq4
     questions:
-      - question: ''
+      - question: The Bible on Homosexuality
         answer: >-
           ## Lorem ipsum
 

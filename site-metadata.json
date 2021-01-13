@@ -24,6 +24,49 @@
             }
         }
     },
-    "main_menu": [],
+    "main_menu": [
+        {
+            "title": "LGBTQ+",
+            "url": "/faq",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "Queer & Christian",
+            "url": "/queerChristian",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "Bible on Homosexuality",
+            "url": "/bible",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "End of the Day",
+            "url": "/end",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "References",
+            "url": "/references",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
+            "title": "Contact",
+            "url": "/contact",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        }
+    ],
     "title": "Queer Christian FAQ"
 }

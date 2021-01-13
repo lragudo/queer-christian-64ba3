@@ -365,7 +365,7 @@ sections:
     type: bulletpoints_section
   - section_id: references-content
     bulletpoints:
-      - title: References
+      - title: ''
         description: ''
     type: bulletpoints_section
 template: home

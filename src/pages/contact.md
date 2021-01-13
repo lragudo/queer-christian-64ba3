@@ -7,7 +7,7 @@ sections:
     questions: []
     type: faq_section
   - section_id: contact
-    headline: ''
+    headline: Contact
     subtitle: >-
       ## Lorem ipsum
 

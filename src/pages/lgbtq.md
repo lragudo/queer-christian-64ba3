@@ -30,7 +30,7 @@ sections:
     type: header_section
   - section_id: faq2
     questions:
-      - question: Was the Bible mistranslated?
+      - question: So what do all those letters mean?
         answer: >
           # Lorem ipsum
 

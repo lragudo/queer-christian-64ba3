@@ -17,7 +17,7 @@
     font-weight: normal;
     font-size: $font_size_regular;
     line-height: 150%;
-    color: $color_light_grey;
+    color: #333;
     &:after {
       content: "";
       opacity: 0.2;
@@ -28,9 +28,13 @@
       height: 1px;
       width: 100%;
     }
-
+    h1{
+      margin: .75em 0;
+    }
     p {
       font-size: $font_size_regular;
+      margin: .25rem 0;
+      line-height: 1.5;
     }
 
     ul {
@@ -154,18 +158,33 @@
 }
 
 #faq2{
-  .faq__question{
+  .faq{
+    &__question{
     color: #FF8A00;
+    }
+    &__answer h1{
+      color: #FF8A00;
+    }
   }
 }
 #faq3{
-  .faq__question{
+  .faq{
+    &__question{
     color: #FFC700;
+    }
+    &__answer h1{
+      color: #FFC700;
+    }
   }
 }
 #faq4{
-  .faq__question{
+  .faq{
+    &__question{
     color: #74DB5F;
+    }
+    &__answer h1{
+      color: #74DB5F;
+    }
   }
 }
 

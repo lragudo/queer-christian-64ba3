@@ -280,7 +280,7 @@ sections:
           am I right? Make sure you’re as transparent as possible with your data
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
           and DPA](http://bit.ly/2YJwlyt).
-      - question: Rapid-fire questions
+      - question: What is the path that lead you to believe that you're queer?
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a

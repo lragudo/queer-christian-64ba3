@@ -93,8 +93,6 @@ sections:
           but has been reclaimed by many parts of the LGBTQ movement.
 
 
-
-
           # Sexual & Romantic Attraction
 
 
@@ -147,6 +145,52 @@ sections:
           comfortable with, many of these individuals still desire connections
           with others. They are just as capable of having fulfilling
           relationships despite common misconceptions.
+
+
+          # Gender Identity
+
+
+          **Transgender**: An umbrella term for people whose gender identity
+          and/or expression is different from cultural expectations based on the
+          sex they were assigned at birth. Being transgender does not imply any
+          specific sexual orientation. Therefore, transgender people may
+          identify as straight, gay, lesbian, bisexual, etc.
+
+
+          **Cisgender**: A term used to describe a person whose gender identity
+          aligns with those typically associated with the sex assigned to them
+          at birth.
+
+
+          **Non-Binary**: An adjective describing a person who does not identify
+          exclusively as a man or a woman. Non-binary people may identify as
+          being both a man and a woman, somewhere in between, or as falling
+          completely outside these categories. While many also identify as
+          transgender, not all non-binary people do. Non-binary can also be used
+          as an umbrella term encompassing identities such as agender, bigender,
+          genderqueer or gender-fluid.
+
+
+          **Agender**: Someone who doesn't identify as any particular gender.
+
+
+          **Genderqueer**: Genderqueer people typically reject notions of static
+          categories of gender and embrace a fluidity of gender identity and
+          often, though not always, sexual orientation. People who identify as
+          "genderqueer" may see themselves as being both male and female,
+          neither male nor female or as falling completely outside these
+          categories.
+
+
+          **Gender-fluid**: A person who does not identify with a single fixed
+          gender or has a fluid or unfixed gender identity.
+
+
+          **Intersex**: Intersex people are born with a variety of differences
+          in their sex traits and reproductive anatomy. There is a wide variety
+          of difference among intersex variations, including differences in
+          genitalia, chromosomes, gonads, internal sex organs, hormone
+          production, hormone response, and/or secondary sex traits.
       - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum

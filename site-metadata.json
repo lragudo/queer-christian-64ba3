@@ -28,7 +28,7 @@
         {
             "title": "LGBTQ+",
             "url": "/faq",
-            "style": "primary",
+            "style": "secondary",
             "arrow": false,
             "type": "action"
         }

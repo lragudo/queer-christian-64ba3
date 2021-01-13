@@ -15,7 +15,7 @@ sections:
 
       > # What are the passages on homosexuality in the Bible?
     type: header_section
-  - section_id: faq3
+  - section_id: faq4
     questions:
       - question: Does believing in God make you a Christian?
         answer: >-

@@ -2,15 +2,6 @@
 title: Home
 white_header: true
 sections:
-  - section_id: lgbtq
-    headline: LGBTQ+ Explained
-    subtitle: >
-      Just like anything else we need language and words to communicate to each
-      other successfully. We make up new words all the time whether casually or
-      for a profession or industry. We can’t interact or communicate
-      successfully without language, so please take the time to learn some new
-      words so you can interact and understand other people better. 
-    type: header_section
   - section_id: faq2
     questions:
       - question: So what do all those letters mean?

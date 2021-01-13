@@ -22,7 +22,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: lorem-ipsum
+      - title: References
         url: lorem-ipsum
         style: primary
         arrow: false

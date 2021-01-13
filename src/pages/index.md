@@ -88,17 +88,18 @@ sections:
           you may come across.
 
 
-          *   **Asexual**
+          **Asexual**: An adjective used to describe people who do not
+          experience sexual attraction.
 
-              : An adjective used to describe people who do not experience sexual attraction.
 
-          *   **Graysexual**
+          **Graysexual**: An adjective used to describe people who experience
+          some or little sexual attraction.
 
-              : An adjective used to describe people who experience some or little sexual attraction.
 
-          *   **Demisexual**
+          **Demisexual**: An adjective used to describe people who only
+          experience sexual attraction to an individual after an emotional
+          connection has been established.
 
-              : An adjective used to describe people who only experience sexual attraction to an individual after an emotional connection has been established.
 
           Romantic attraction is also a spectrum. Much like sexual attraction,
           some experience romantic attraction differently than others. Those who
@@ -106,17 +107,18 @@ sections:
           experience little to no romantic attraction are known as aromantic.
 
 
-          *   **Aromantic**
+          **Aromantic**: An adjective used to describe people who do not
+          experience romantic attraction.
 
-              : An adjective used to describe people who do not experience romantic attraction.
 
-          *   **Grayromantic**
+          **Grayromantic**: An adjective used to describe people who experience
+          some or little romantic attraction.
 
-              : An adjective used to describe people who experience some or little romantic attraction.
 
-          *   **Demiromantic**
+          **Demiromantic**: An adjective used to describe people who only
+          experience romantic attraction to an individual after an emotional
+          connection has been established.
 
-              : An adjective used to describe people who only experience romantic attraction to an individual after an emotional connection has been established.
 
           Some individuals identify as both aesexual and aeromantic. Some
           identify as neither. Regardless of what identity people feel

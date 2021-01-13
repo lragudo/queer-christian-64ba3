@@ -9,12 +9,7 @@ sections:
       - question: What is attraction and how do you know for sure?
         answer: ''
       - question: What is the difference between sex and gender?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        answer: ''
       - question: What is the path that lead you to believe that you are queer?
         answer: ''
     type: faq_section

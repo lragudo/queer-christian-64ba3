@@ -2,10 +2,6 @@
 title: Home
 white_header: true
 sections:
-  - section_id: header
-    headline: words
-    subtitle: ''
-    type: header_section
   - section_id: lgbtq
     headline: LGBTQ+ Explained
     subtitle: >-

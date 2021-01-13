@@ -370,7 +370,14 @@ sections:
   - section_id: references-content
     bulletpoints:
       - title: ''
-        description: ''
+        description: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
     type: bulletpoints_section
 template: home
 page_css_class: home

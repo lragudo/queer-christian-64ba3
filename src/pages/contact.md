@@ -6,7 +6,7 @@ sections:
   - section_id: contact
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: queer
+    email: 'queer '
     mapUrl: lorem-ipsum
     type: contact_section
 template: advanced

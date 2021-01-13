@@ -101,13 +101,12 @@ sections:
           connection has been established.
 
 
+
+
           Romantic attraction is also a spectrum. Much like sexual attraction,
           some experience romantic attraction differently than others. Those who
           experience romantic attraction are known as alloromantic. Those who
           experience little to no romantic attraction are known as aromantic.
-
-
-          ***
 
 
           **Aromantic**: An adjective used to describe people who do not

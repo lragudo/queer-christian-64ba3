@@ -107,10 +107,6 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: references
-    headline: References
-    subtitle: ''
-    type: header_section
   - section_id: faq6
     questions:
       - question: lorem-ipsum

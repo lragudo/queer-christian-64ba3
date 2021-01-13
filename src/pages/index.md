@@ -329,7 +329,7 @@ sections:
     type: faq_section
   - section_id: faq7
     questions:
-      - question: lorem-ipsum
+      - question: Contact
         answer: >-
           ## Lorem ipsum
 

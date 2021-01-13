@@ -47,10 +47,39 @@
   .header-section{
 
   &__title{
-      background: #FFA334;
+      background: #FF8A00;
     }
   }
-  .faq__question{
-    color: #FFA334;
+}
+#queerChristian {
+  .header-section{
+
+  &__title{
+      background: #FFC700;
+    }
+  }
+}
+#bible {
+  .header-section{
+
+  &__title{
+      background: #74DB5F;
+    }
+  }
+}
+#end {
+  .header-section{
+
+  &__title{
+      background: #4D87E7;
+    }
+  }
+}
+#references {
+  .header-section{
+
+  &__title{
+      background: #8B55E4;
+    }
   }
 }

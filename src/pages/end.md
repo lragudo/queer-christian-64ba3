@@ -5,15 +5,8 @@ white_header: false
 sections:
   - section_id: end
     headline: At the End of the Day
-    subtitle: >
-      What does the Bible really say on the topic? Let's look at the passages
-      that the church has used against queer Chrisitans,
-
-
-      > # Was the Bible mistranslated?
-
-
-      > # What are the passages on homosexuality in the Bible?
+    subtitle: |
+      #
     type: header_section
   - section_id: faq6
     questions:

@@ -229,7 +229,7 @@ sections:
           ### Intersex:
 
            Intersex people are born with a variety of differences in their sex traits and reproductive anatomy. There is a wide variety of difference among intersex variations, including differences in genitalia, chromosomes, gonads, internal sex organs, hormone production, hormone response, and/or secondary sex traits.
-      - question: How do refunds and returns work?
+      - question: What is attraction and how do you know for sure?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:

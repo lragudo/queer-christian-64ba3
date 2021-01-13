@@ -3,7 +3,7 @@ title: references
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: end
+  - section_id: references
     headline: At the End of the Day
     subtitle: ''
     type: header_section

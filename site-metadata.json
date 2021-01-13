@@ -55,7 +55,7 @@
         },
         {
             "title": "References",
-            "url": "lorem-ipsum",
+            "url": "/re",
             "style": "primary",
             "arrow": false,
             "type": "action"

@@ -6,9 +6,24 @@ sections:
     section_id: lgbtq
     background_image: /images/leaf-light-grey.svg
     headline: LGBTQ+ Explained
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: >
+      Just like anything else we need language and words to communicate to each
+      other successfully. We make up new words all the time whether casually or
+      for a profession or industry. We can’t interact or communicate
+      successfully without language, so please take the time to learn some new
+      words so you can interact and understand other people better.
+
+
+      1.  So what do all those letters mean?
+
+
+      2.  What is attraction and how do you know for sure?
+
+
+      3.  What is the difference between sex and gender?
+
+
+      4.  What is the path that lead you to believe that you are queer?
   - type: faq_section
     section_id: faq2
     questions:

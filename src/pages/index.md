@@ -327,7 +327,7 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: lorem-ipsum
+  - section_id: faq7
     questions: []
     type: faq_section
 template: home

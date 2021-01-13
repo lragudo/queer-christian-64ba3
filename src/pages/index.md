@@ -240,7 +240,7 @@ sections:
           ignore. I am pansexual meaning that I am sexually and romantically
           attracted to all genders.
     type: faq_section
-  - section_id: '#queerChristian'
+  - section_id: queerChristian
     headline: Queer and Christian
     subtitle: >-
       While many Christians see no problem with being queer and following God,

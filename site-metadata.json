@@ -26,6 +26,13 @@
     },
     "main_menu": [
         {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        },
+        {
             "title": "LGBTQ+",
             "url": "/faq",
             "style": "primary",
@@ -63,13 +70,6 @@
         {
             "title": "Contact",
             "url": "/contact",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
-        },
-        {
-            "title": "lorem-ipsum",
-            "url": "lorem-ipsum",
             "style": "primary",
             "arrow": false,
             "type": "action"

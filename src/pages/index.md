@@ -350,6 +350,20 @@ sections:
           - dolor sit amet
     type: faq_section
   - section_id: end
+    headline: At the End of the Day
+    subtitle: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: header_section
+  - section_id: end
     bulletpoints:
       - title: At the End of the Day
         description: >-
@@ -364,20 +378,6 @@ sections:
       - title: References
         description: ''
     type: bulletpoints_section
-  - section_id: end
-    headline: At the End of the Day
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: header_section
 template: home
 page_css_class: home
 ---

@@ -132,13 +132,8 @@ sections:
 
               Someone who doesn't identify as any particular gender.
 
-          *   Genderqueer:Genderqueer people typically reject notions of static
-          categories of gender and embrace a fluidity of gender identity and
-          often, though not always, sexual orientation. People who identify as
-          "genderqueer" may see themselves as being both male and female,
-          neither male nor female or as falling completely outside these
-          categories.
-
+          *   **Genderqueer:**
+              Genderqueer people typically reject notions of static categories of gender and embrace a fluidity of gender identity and often, though not always, sexual orientation. People who identify as "genderqueer" may see themselves as being both male and female, neither male nor female or as falling completely outside these categories.
 
           *   **Gender-fluid:**
 

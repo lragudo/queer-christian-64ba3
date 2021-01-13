@@ -8,7 +8,7 @@ sections:
     subtitle: |
       #
     type: header_section
-  - section_id: faq6
+  - section_id: faq5
     questions:
       - question: Was the Bible mistranslated?
         answer: >-

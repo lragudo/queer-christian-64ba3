@@ -17,7 +17,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: The Bible
+      - title: The Bible on Homosexuality
         url: lorem-ipsum
         style: primary
         arrow: false

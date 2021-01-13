@@ -54,16 +54,16 @@
   }
 
   &__section-title {
-    font-family: $font_family_primairy;
-    font-size: 42px;
-    margin-bottom: $spacing--unit*3;
-    color: #fff;
-    margin-top: 75px;
-    padding: .5em;
+    ont-family: $font_family_primairy;
+    font-weight: bold;
+    font-size: $font_size_xxlarge;
+    max-width: 600px;
+    color: #ffffff;
+    margin-bottom: 50px;
+    overflow: visible;
+    padding: .25em;
     @include smaller-than-tablet {
-      margin-top: 50px;
-      margin-bottom: 30px;
-      font-size: $font_size_medium;
+      font-size: $font_size_large;
     }
   }
 

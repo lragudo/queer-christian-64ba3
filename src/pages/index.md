@@ -8,7 +8,7 @@ sections:
       # Queer Christian FAQ
     actions:
       - title: LGBTQ+ Explained
-        url: lorem-ipsum
+        url: lgbtq
         style: primary
         arrow: false
         type: action

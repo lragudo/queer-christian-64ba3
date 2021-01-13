@@ -61,7 +61,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: What does it mean to love God and my neighbor?
         answer: >-
           ## Lorem ipsum
 

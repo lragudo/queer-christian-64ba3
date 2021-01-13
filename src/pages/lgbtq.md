@@ -163,7 +163,7 @@ sections:
           person. This is part of what makes sorting through feelings for others
           difficult and confusing. Hopefully these five categories may help when
           it comes to determining how we feel about another person.
-      - question: lorem-ipsum
+      - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
 

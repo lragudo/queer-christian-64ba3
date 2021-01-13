@@ -2,6 +2,21 @@
 title: Home
 white_header: true
 sections:
+  - section_id: lorem-ipsum
+    background_image_opacity: 0
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
   - section_id: lgbtq
     headline: LGBTQ+ Explained
     subtitle: >-
@@ -262,21 +277,6 @@ sections:
           2. reference 
           3. [reference ](https://www.qchristian.org/resources/theology)
     type: bulletpoints_section
-  - section_id: lorem-ipsum
-    background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
 template: home
 page_css_class: home
 ---

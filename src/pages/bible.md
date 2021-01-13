@@ -6,20 +6,17 @@ sections:
   - section_id: bible
     headline: Queer & Christian
     subtitle: >
-      While many Christians see no problem with being queer and following God,
-      many still believe that being queer and Christian can't mix.
+      What does the Bible really say on the topic? Let's look at the passages
+      that the church has used against queer Chrisitans,
 
 
-      > # Does believing in God make you a Christian?
+      > # Was the Bible mistranslated?
 
 
-      > # What is a Christian?
+      > # What are the passages on homosexuality in the Bible?
 
 
-      > # What are the core beliefs of Christians?
-
-
-      > # What does it mean to love God and my neighbor?
+      > #
     type: header_section
   - section_id: faq3
     questions:

@@ -28,7 +28,7 @@ sections:
 
       > ## What is the path that lead you to believe that you are queer?
     type: header_section
-  - section_id: faq4
+  - section_id: faq2
     questions:
       - question: Was the Bible mistranslated?
         answer: >

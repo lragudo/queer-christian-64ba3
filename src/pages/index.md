@@ -2,7 +2,7 @@
 title: Home
 white_header: true
 sections:
-  - section_id: header
+  - section_id: header-nav
     background_image_opacity: 0
     content: >-
       ## Lorem ipsum

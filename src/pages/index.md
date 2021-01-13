@@ -251,13 +251,11 @@ sections:
         answer: |
           Add some personal stories
 
-          **lillian**
+          ***
 
-          ****
+          ***
 
-          ****
-
-          ****
+          ***
 
           **ff**
     type: faq_section

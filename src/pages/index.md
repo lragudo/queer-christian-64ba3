@@ -4,7 +4,7 @@ white_header: true
 sections:
   - section_id: faq2
     questions:
-      - question: ''
+      - question: LGBTQ+ Explained
         answer: >-
           ## Lorem ipsum
 

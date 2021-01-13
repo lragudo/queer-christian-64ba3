@@ -222,17 +222,14 @@ sections:
   - section_id: faq3
     questions:
       - question: Queer & Christian
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          ## Does believing in God make you a Christian?
 
+          ## What is a Christian?
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ## What are the core beliefs of Christians?
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ## What does it mean to love God and my neighbor?
     type: faq_section
   - section_id: faq4
     questions:

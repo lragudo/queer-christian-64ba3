@@ -42,7 +42,7 @@ sections:
       successfully without language, so please take the time to learn some new
       words so you can interact and understand other people better. 
     type: header_section
-  - section_id: faq
+  - section_id: faq2
     questions:
       - question: So what do all those letters mean?
         answer: >
@@ -264,7 +264,7 @@ sections:
       While many Christians see no problem with being queer and following God,
       many still believe that being queer and Christian can't mix.
     type: header_section
-  - section_id: faq
+  - section_id: faq3
     questions:
       - question: Does believing in God make you a Christian?
         answer: >-
@@ -321,7 +321,7 @@ sections:
       What does the Bible really say on the topic? Let's look at the passages
       that the church has used against queer Chrisitans,
     type: header_section
-  - section_id: faq
+  - section_id: faq4
     questions:
       - question: Was the Bible mistranslated?
         answer: >-

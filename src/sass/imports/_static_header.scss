@@ -32,7 +32,6 @@
     font-weight: bold;
     font-size: $font_size_xxlarge;
     max-width: 600px;
-    color: #ffffff;
     margin-bottom: 50px;
     overflow: visible;
     padding: .25em;
@@ -45,31 +44,31 @@
 
 #lgbtq {
   .header-section__title{
-      background: #E51818;
+      color: #E51818;
     }
 }
 #queerChristian {
   .header-section__title{
-      background: #FF8A00;
+    color: #FF8A00;
     }
 }
 #bible {
   .header-section__title{
-      background: #FFC700;
+    color: #FFC700;
     }
 }
 #end {
   .header-section__title{
-      background: #30BC65;
+    color: #30BC65;
     }
 }
 #references {
   .header-section__title{
-      background: #4D87E7;
+    color: #4D87E7;
     }
 }
 #contact {
   .header-section__title{
-      background: #8B55E4;
+    color: #8B55E4;
     }
 }

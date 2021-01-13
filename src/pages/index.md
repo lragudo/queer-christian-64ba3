@@ -302,7 +302,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: 'What does it mean to love God and '
+      - question: What does it mean to love God and my neighbor?
         answer: >-
           ## Lorem ipsum
 

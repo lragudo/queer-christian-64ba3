@@ -364,7 +364,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
     type: bulletpoints_section
   - section_id: references
-    headline: lorem-ipsum
+    headline: References
     subtitle: >-
       ## Lorem ipsum
 

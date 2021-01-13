@@ -35,7 +35,7 @@
         {
             "title": "Queer & Christian",
             "url": "/queerChristian",
-            "style": "primary",
+            "style": "secondary",
             "arrow": false,
             "type": "action"
         }

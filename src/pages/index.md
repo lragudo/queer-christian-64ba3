@@ -273,17 +273,10 @@ sections:
   - section_id: faq4
     questions:
       - question: The Bible on Homosexuality
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          ## Was the Bible mistranslated?
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ## What are the passages on homosexuality in the Bible?
     type: faq_section
   - section_id: faq5
     questions:

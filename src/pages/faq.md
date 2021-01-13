@@ -37,68 +37,29 @@ sections:
           # Sexual & Romantic Orientation
 
 
-          ### Sexual/romantic orientation: 
+          *   **Sexual/romantic orientation:**
 
+              An inherent or immutable enduring emotional, romantic or sexual attraction to other people. Note: an individual’s sexual orientation is independent of their gender identity.
 
-          An inherent or immutable enduring emotional, romantic or sexual
-          attraction to other people. Note: an individual’s sexual orientation
-          is independent of their gender identity.
+          *   **Lesbian:**
 
+              A woman who is emotionally, romantically or sexually attracted to other women. Women and non-binary people may use this term to describe themselves.
 
-          ### Lesbian: 
+          *   **Gay:**
 
+              A person who is emotionally, romantically or sexually attracted to members of the same gender. Men, women and non-binary people may use this term to describe themselves.
 
-          A woman who is emotionally, romantically or sexually attracted to
-          other women. Women and non-binary people may use this term to describe
-          themselves.
+          *   **Bisexual:**
 
+              A person emotionally, romantically or sexually attracted to more than one sex, gender or gender identity though not necessarily simultaneously, in the same way or to the same degree. People may experience this attraction in differing ways and degrees over their lifetime. Bisexual people need not have had specific sexual experiences to be bisexual; in fact, they need not have had any sexual experience at all to identify as bisexual. Sometimes used interchangeably with pansexual.
 
-          ### Gay: 
+          *   **Pansexual:**
 
+              Describes someone who has the potential for emotional, romantic or sexual attraction to people of all genders though not necessarily simultaneously, in the same way or to the same degree. People may experience this attraction in differing ways and degrees over their lifetime. Pansexual people need not have had specific sexual experiences to be pansexual; in fact, they need not have had any sexual experience at all to identify as pansexual. Sometimes used interchangeably with bisexual.
 
-          A person who is emotionally, romantically or sexually attracted to
-          members of the same gender. Men, women and non-binary people may use
-          this term to describe themselves.
+          *   **Queer:**
 
-
-          ### Bisexual: 
-
-
-          A person emotionally, romantically or sexually attracted to more than
-          one sex, gender or gender identity though not necessarily
-          simultaneously, in the same way or to the same degree. People may
-          experience this attraction in differing ways and degrees over their
-          lifetime. Bisexual people need not have had specific sexual
-          experiences to be bisexual; in fact, they need not have had any sexual
-          experience at all to identify as bisexual. Sometimes used
-          interchangeably with pansexual.
-
-
-          ### Pansexual: 
-
-
-          Describes someone who has the potential for emotional, romantic or
-          sexual attraction to people of all genders though not necessarily
-          simultaneously, in the same way or to the same degree. People may
-          experience this attraction in differing ways and degrees over their
-          lifetime. Pansexual people need not have had specific sexual
-          experiences to be pansexual; in fact, they need not have had any
-          sexual experience at all to identify as pansexual. Sometimes used
-          interchangeably with bisexual.
-
-
-          ### Queer: 
-
-
-          A term people often use to express a spectrum of identities and
-          orientations that are counter to the mainstream. Queer is often used
-          as a catch-all to include many people, including those who do not
-          identify as exclusively straight and/or folks who have non-binary or
-          genderexpansive identities. This term was previously used as a slur,
-          but has been reclaimed by many parts of the LGBTQ movement.
-
-
-
+              A term people often use to express a spectrum of identities and orientations that are counter to the mainstream. Queer is often used as a catch-all to include many people, including those who do not identify as exclusively straight and/or folks who have non-binary or genderexpansive identities. This term was previously used as a slur, but has been reclaimed by many parts of the LGBTQ movement.
 
           # Sexual & Romantic Attraction
 
@@ -115,24 +76,17 @@ sections:
           you may come across.
 
 
-          ### Asexual: 
+          *   **Asexual:**
 
+              An adjective used to describe people who do not experience sexual attraction.
 
-          An adjective used to describe people who do not experience sexual
-          attraction.
+          *   **Graysexual:**
 
+              An adjective used to describe people who experience some or little sexual attraction.
 
-          ### Graysexual:
+          *   **Demisexual:**
 
-           An adjective used to describe people who experience some or little sexual attraction.
-
-          ### Demisexual: 
-
-
-          An adjective used to describe people who only experience sexual
-          attraction to an individual after an emotional connection has been
-          established.
-
+              An adjective used to describe people who only experience sexual attraction to an individual after an emotional connection has been established.
 
           Romantic attraction is also a spectrum. Much like sexual attraction,
           some experience romantic attraction differently than others. Those who
@@ -140,27 +94,17 @@ sections:
           experience little to no romantic attraction are known as aromantic.
 
 
-          ### Aromantic: 
+          *   **Aromantic:**
 
+              An adjective used to describe people who do not experience romantic attraction.
 
-          An adjective used to describe people who do not experience romantic
-          attraction.
+          *   **Grayromantic:**
 
+              An adjective used to describe people who experience some or little romantic attraction.
 
-          ### Grayromantic: 
+          *   **Demiromantic:**
 
-
-          An adjective used to describe people who experience some or little
-          romantic attraction.
-
-
-          ### Demiromantic: 
-
-
-          An adjective used to describe people who only experience romantic
-          attraction to an individual after an emotional connection has been
-          established.
-
+              An adjective used to describe people who only experience romantic attraction to an individual after an emotional connection has been established.
 
           Some individuals identify as both aesexual and aeromantic. Some
           identify as neither. Regardless of what identity people feel
@@ -169,66 +113,50 @@ sections:
           relationships despite common misconceptions.
 
 
-
-
           # Gender Identity
 
 
-          ### Transgender: 
+          **Transgender:**An umbrella term for people whose gender identity
+          and/or expression is different from cultural expectations based on the
+          sex they were assigned at birth. Being transgender does not imply any
+          specific sexual orientation. Therefore, transgender people may
+          identify as straight, gay, lesbian, bisexual, etc.
 
 
-          An umbrella term for people whose gender identity and/or expression is
-          different from cultural expectations based on the sex they were
-          assigned at birth. Being transgender does not imply any specific
-          sexual orientation. Therefore, transgender people may identify as
-          straight, gay, lesbian, bisexual, etc.
+          **Cisgender:**A term used to describe a person whose gender identity
+          aligns with those typically associated with the sex assigned to them
+          at birth.
 
 
-          ### Cisgender: 
+          **Non-Binary:**An adjective describing a person who does not identify
+          exclusively as a man or a woman. Non-binary people may identify as
+          being both a man and a woman, somewhere in between, or as falling
+          completely outside these categories. While many also identify as
+          transgender, not all non-binary people do. Non-binary can also be used
+          as an umbrella term encompassing identities such as agender, bigender,
+          genderqueer or gender-fluid.
 
 
-          A term used to describe a person whose gender identity aligns with
-          those typically associated with the sex assigned to them at birth.
+          **Agender:**Someone who doesn't identify as any particular gender.
 
 
-          ### Non-Binary: 
+          **Genderqueer:**Genderqueer people typically reject notions of static
+          categories of gender and embrace a fluidity of gender identity and
+          often, though not always, sexual orientation. People who identify as
+          "genderqueer" may see themselves as being both male and female,
+          neither male nor female or as falling completely outside these
+          categories.
 
 
-          An adjective describing a person who does not identify exclusively as
-          a man or a woman. Non-binary people may identify as being both a man
-          and a woman, somewhere in between, or as falling completely outside
-          these categories. While many also identify as transgender, not all
-          non-binary people do. Non-binary can also be used as an umbrella term
-          encompassing identities such as agender, bigender, genderqueer or
-          gender-fluid.
+          **Gender-fluid:**A person who does not identify with a single fixed
+          gender or has a fluid or unfixed gender identity.
 
 
-          ### Agender: 
-
-
-          Someone who doesn't identify as any particular gender.
-
-
-          ### Genderqueer: 
-
-
-          Genderqueer people typically reject notions of static categories of
-          gender and embrace a fluidity of gender identity and often, though not
-          always, sexual orientation. People who identify as "genderqueer" may
-          see themselves as being both male and female, neither male nor female
-          or as falling completely outside these categories.
-
-
-          ### Gender-fluid: 
-
-
-          A person who does not identify with a single fixed gender or has a
-          fluid or unfixed gender identity.
-
-
-          ### Intersex:
-
-           Intersex people are born with a variety of differences in their sex traits and reproductive anatomy. There is a wide variety of difference among intersex variations, including differences in genitalia, chromosomes, gonads, internal sex organs, hormone production, hormone response, and/or secondary sex traits.
+          **Intersex:**Intersex people are born with a variety of differences in
+          their sex traits and reproductive anatomy. There is a wide variety of
+          difference among intersex variations, including differences in
+          genitalia, chromosomes, gonads, internal sex organs, hormone
+          production, hormone response, and/or secondary sex traits.
       - question: What is attraction and how do you know for sure?
         answer: >
           At face value, the answer might seem obvious. It's having a crush on

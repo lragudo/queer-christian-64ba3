@@ -12,7 +12,7 @@ sections:
   - type: faq_section
     section_id: faq2
     questions:
-      - question: So What do all those letters mean
+      - question: So What do all those letters mean?
         answer: >-
           Now that’s a frequent one all right, ain’t it? Your answer to this
           should *manage customer expectations*. Just like [a good checkout

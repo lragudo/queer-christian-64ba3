@@ -24,6 +24,14 @@
             }
         }
     },
-    "main_menu": [],
+    "main_menu": [
+        {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
+        }
+    ],
     "title": "Queer Christian FAQ"
 }

@@ -2,38 +2,6 @@
 title: Home
 white_header: true
 sections:
-  - section_id: home
-    background_image_opacity: 0
-    content: >-
-      # The Queer Christian FAQ
-
-
-      explain the reason for this site and what it's about
-
-      This is not all inclusive but a place to begin to answer questions and
-      come to an understanding.
-    actions:
-      - title: LGBTQ+
-        url: '#lgbtq'
-        style: secondary
-        arrow: false
-        type: action
-      - title: Queer & Christian
-        url: '#queerChristian'
-        style: secondary
-        arrow: false
-        type: action
-      - title: The Bible
-        url: '#bible'
-        style: secondary
-        arrow: false
-        type: action
-      - title: References
-        url: '#references'
-        style: secondary
-        arrow: false
-        type: action
-    type: hero_section
   - section_id: header
     headline: words
     subtitle: ''

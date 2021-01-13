@@ -1,5 +1,5 @@
 ---
-title: referenceces
+title: referencec
 page_css_class: queerChristian
 white_header: false
 sections:

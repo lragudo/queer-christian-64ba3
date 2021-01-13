@@ -4,17 +4,8 @@ white_header: true
 sections:
   - section_id: header-nav
     background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      # Queer Christian FAQ
     actions: []
     type: hero_section
   - section_id: lgbtq

@@ -7,7 +7,7 @@ sections:
     address: lorem-ipsum
     phone: lorem-ipsum
     email: QueerChristianFAQ@gmail.com
-    mapUrl: lorem-ipsum
+    mapUrl: Instagram
     type: contact_section
 template: advanced
 ---

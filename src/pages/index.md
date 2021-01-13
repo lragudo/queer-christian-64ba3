@@ -353,16 +353,6 @@ sections:
     headline: At the End of the Day
     subtitle: ''
     type: header_section
-  - section_id: end-content
-    bulletpoints:
-      - title: At the End of the Day
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    type: bulletpoints_section
   - section_id: references
     headline: References
     subtitle: ''

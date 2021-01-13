@@ -3,7 +3,7 @@ title: Bible on Homosexuality
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: bible
+  - section_id: references
     headline: Queer & Christian
     subtitle: >
       What does the Bible really say on the topic? Let's look at the passages

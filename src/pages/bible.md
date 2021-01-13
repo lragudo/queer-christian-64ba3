@@ -14,9 +14,6 @@ sections:
 
 
       > # What are the passages on homosexuality in the Bible?
-
-
-      > #
     type: header_section
   - section_id: faq3
     questions:

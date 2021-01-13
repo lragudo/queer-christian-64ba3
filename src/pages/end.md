@@ -3,7 +3,7 @@ title: end of the day
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: queerChristian
+  - section_id: end
     headline: Queer and Christian
     subtitle: >
       While many Christians see no problem with being queer and following God,

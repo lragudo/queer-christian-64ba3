@@ -363,7 +363,7 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
     type: bulletpoints_section
-  - section_id: references
+  - section_id: references-content
     bulletpoints:
       - title: References
         description: ''

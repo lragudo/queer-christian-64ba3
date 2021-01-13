@@ -27,7 +27,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: lorem-ipsum
+      - title: At the End of the Day
         url: lorem-ipsum
         style: primary
         arrow: false

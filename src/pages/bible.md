@@ -3,7 +3,7 @@ title: Bible on Homosexuality
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: queerChristian
+  - section_id: bible
     headline: Queer & Christian
     subtitle: >
       While many Christians see no problem with being queer and following God,

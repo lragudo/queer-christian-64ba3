@@ -3,7 +3,7 @@ title: Queer & Christian
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: faq3
+  - section_id: queerChristian
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum

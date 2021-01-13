@@ -23,7 +23,7 @@ sections:
 
       > ## What does it mean to love God and my neighbor?
     type: header_section
-  - section_id: faq3
+  - section_id: faq5
     questions:
       - question: Does believing in God make you a Christian?
         answer: >

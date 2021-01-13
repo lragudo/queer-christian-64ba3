@@ -10,16 +10,16 @@ sections:
       many still believe that being queer and Christian can't mix.
 
 
-      # Does believing in God make you a Christian?
+      ## Does believing in God make you a Christian?
 
 
-      # What is a Christian?
+      ## What is a Christian?
 
 
-      # What are the core beliefs of Christians?
+      ## What are the core beliefs of Christians?
 
 
-      # What does it mean to love God and my neighbor?
+      ## What does it mean to love God and my neighbor?
     type: header_section
   - section_id: faq3
     questions:

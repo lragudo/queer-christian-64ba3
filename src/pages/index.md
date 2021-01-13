@@ -28,7 +28,7 @@ sections:
         arrow: false
         type: action
       - title: At the End of the Day
-        url: lorem-ipsum
+        url: '#end'
         style: primary
         arrow: false
         type: action

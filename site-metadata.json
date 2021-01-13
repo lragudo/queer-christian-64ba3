@@ -61,7 +61,7 @@
             "type": "action"
         },
         {
-            "title": "lorem-ipsum",
+            "title": "Contact",
             "url": "/contact",
             "style": "primary",
             "arrow": false,

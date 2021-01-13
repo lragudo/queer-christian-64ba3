@@ -175,7 +175,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
 

@@ -25,7 +25,7 @@ sections:
     type: header_section
   - section_id: faq3
     questions:
-      - question: Was the Bible mistranslated?
+      - question: Does believing in God make you a Christian?
         answer: >
           # Lorem ipsum
 

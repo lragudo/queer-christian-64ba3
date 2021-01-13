@@ -255,9 +255,11 @@ sections:
               Attraction based on the desire for romantic interactions or relationships with another person. Think of something along the lines of wanting to buy someone flowers, chocolates, and to shower them with affection.
 
           *   **Sensual:**
+
               Attraction based on the idea of non-sexual physical contact. It is defined as a desire to cuddle, hug, and to be close to someone in a non-sexual way.
 
           *   **Platonic:**
+
               Attraction defined by the desire to be friends with another person. It’s wanting to hang out, go out to eat, play games, and live life together in a platonic friend-like relationship.
 
           *   **Aesthetic:**

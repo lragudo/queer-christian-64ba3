@@ -156,8 +156,17 @@
     margin-left: $spacing--unit*8;
   }
 }
-
 #faq2{
+  .faq{
+    &__question{
+    color: #E51818;
+    }
+    &__answer h1{
+      color: #E51818;
+    }
+  }
+
+#faq3{
   .faq{
     &__question{
     color: #FF8A00;
@@ -167,7 +176,7 @@
     }
   }
 }
-#faq3{
+#faq4{
   .faq{
     &__question{
     color: #FFC700;
@@ -177,17 +186,17 @@
     }
   }
 }
-#faq4{
+#faq5{
   .faq{
     &__question{
-    color: #74DB5F;
+    color: #30BC65;
     }
     &__answer h1{
-      color: #74DB5F;
+      color: #30BC65;
     }
   }
 }
-#faq5{
+#faq6{
   .faq{
     &__question{
     color: #4D87E7;
@@ -198,7 +207,7 @@
   }
 }
 
-#faq6{
+#faq7{
   .faq{
     &__question{
     color: #8B55E4;

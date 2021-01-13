@@ -3,7 +3,7 @@ title: references
 page_css_class: queerChristian
 white_header: false
 sections:
-  - section_id: references
+  - section_id: contact
     headline: Contact
     subtitle: ''
     type: header_section

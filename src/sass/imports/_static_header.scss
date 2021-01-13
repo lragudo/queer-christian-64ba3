@@ -25,16 +25,6 @@
     padding-bottom: 50px;
 
     &:last-child     { margin-bottom: 0 }
-    &:after {
-      content:"";
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 50px;
-      display: block;
-      background: $color_active;
-      height: 3px;
-      width: 60px;
-    }
   }
 
   &__title {
@@ -42,11 +32,25 @@
     font-weight: bold;
     font-size: $font_size_xxlarge;
     max-width: 600px;
-    color: $color_dark_grey;
+    color: #ffffff;
     margin-bottom: 50px;
     overflow: visible;
+    padding: .25em;
     @include smaller-than-tablet {
       font-size: $font_size_large;
     }
+    
+  }
+}
+
+#lgbtq {
+  .header-section{
+
+  &__title{
+      background: #FFA334;
+    }
+  }
+  .faq__question{
+    color: #FFA334;
   }
 }

@@ -2,9 +2,6 @@
   &__section {
     max-width: 85%;
     margin: 0 auto;
-    &:nth-child(-n + 2) {
-      margin-top: $spacing--unit*3;
-    }
   }
 
   &__question {
@@ -29,7 +26,6 @@
       margin-right: auto;
       margin-top: 50px;
       display: block;
-      background: $color_light_grey;
       height: 1px;
       width: 100%;
     }

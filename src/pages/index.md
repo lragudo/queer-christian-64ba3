@@ -6,13 +6,13 @@ sections:
     questions:
       - question: LGBTQ+ Explained
         answer: |
-          # So what do all those letters mean?
+          ## So what do all those letters mean?
 
-          # What is attraction and how do you know for sure?
+          ## What is attraction and how do you know for sure?
 
-          # What is the difference between sex and gender?
+          ## What is the difference between sex and gender?
 
-          # What is the path that lead you to believe that you are queer?
+          ## What is the path that lead you to believe that you are queer?
     type: faq_section
   - section_id: faq3
     questions:

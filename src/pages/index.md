@@ -64,7 +64,7 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: faq
+  - section_id: faq7
     questions: []
     type: faq_section
 template: home

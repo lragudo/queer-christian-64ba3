@@ -266,7 +266,7 @@ sections:
     type: header_section
   - section_id: faq
     questions:
-      - question: lorem-ipsum
+      - question: W
         answer: >-
           ## Lorem ipsum
 

@@ -2,9 +2,7 @@
     background-color: $color_dark;
     width: 100%;
     margin-top: -101px;
-    padding-top: 282px;
-    padding-bottom: 350px;
-    margin-bottom: -200px;
+    padding: 5rem 0;
     position: relative;
 
     @include smaller-than-max-width {
@@ -28,7 +26,8 @@
         color: white;
         position: relative;
         max-width: 800px;
-
+        background: #EE1818;
+        padding: 1em;
         h1 {
             color: $color_default;
             margin: 0 auto 15px;

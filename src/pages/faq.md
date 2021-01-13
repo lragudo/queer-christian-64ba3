@@ -274,7 +274,7 @@ sections:
           person. This is part of what makes sorting through feelings for others
           difficult and confusing. Hopefully these five categories may help when
           it comes to determining how we feel about another person.
-      - question: ''
+      - question: What is the difference between sex and gender?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data

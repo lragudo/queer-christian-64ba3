@@ -17,7 +17,7 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: lorem-ipsum
+      - title: The Bible on H
         url: lorem-ipsum
         style: primary
         arrow: false

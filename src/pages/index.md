@@ -293,7 +293,7 @@ sections:
           2. reference 
           3. [reference ](https://www.qchristian.org/resources/theology)
     type: bulletpoints_section
-  - section_id: lorem-ipsum
+  - section_id: end
     bulletpoints: []
     type: bulletpoints_section
 template: home

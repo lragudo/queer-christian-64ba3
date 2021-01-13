@@ -6,7 +6,7 @@ sections:
   - section_id: contact
     address: lorem-ipsum
     phone: lorem-ipsum
-    email: QueerChristian
+    email: QueerChristianFAQ@gmail.com
     mapUrl: lorem-ipsum
     type: contact_section
 template: advanced

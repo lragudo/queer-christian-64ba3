@@ -270,12 +270,6 @@ sections:
 
           - dolor sit amet
     type: faq_section
-  - section_id: bible
-    headline: The Bible on Homosexuality
-    subtitle: >-
-      What does the Bible really say on the topic? Let's look at the passages
-      that the church has used against queer Chrisitans,
-    type: header_section
   - section_id: faq4
     questions:
       - question: Was the Bible mistranslated?

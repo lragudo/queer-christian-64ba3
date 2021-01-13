@@ -219,12 +219,6 @@ sections:
 
           **ff**
     type: faq_section
-  - section_id: queerChristian
-    headline: Queer and Christian
-    subtitle: >-
-      While many Christians see no problem with being queer and following God,
-      many still believe that being queer and Christian can't mix.
-    type: header_section
   - section_id: faq3
     questions:
       - question: Does believing in God make you a Christian?

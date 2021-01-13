@@ -285,14 +285,6 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
-  - section_id: references
-    bulletpoints:
-      - title: References
-        description: |-
-          1. reference 
-          2. reference 
-          3. [reference ](https://www.qchristian.org/resources/theology)
-    type: bulletpoints_section
   - section_id: end
     bulletpoints:
       - title: At the End of the Day
@@ -307,6 +299,14 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+    type: bulletpoints_section
+  - section_id: references
+    bulletpoints:
+      - title: References
+        description: |-
+          1. reference 
+          2. reference 
+          3. [reference ](https://www.qchristian.org/resources/theology)
     type: bulletpoints_section
 template: home
 page_css_class: home

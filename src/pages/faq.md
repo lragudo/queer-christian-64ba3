@@ -4,7 +4,6 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: lgbtq
-    background_image: /images/leaf-light-grey.svg
     headline: LGBTQ+ Explained
     subtitle: >
       Just like anything else we need language and words to communicate to each

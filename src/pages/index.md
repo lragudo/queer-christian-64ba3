@@ -7,7 +7,7 @@ sections:
     content: |
       # Queer Christian FAQ
     actions:
-      - title: lorem-ipsum
+      - title: LGBT
         url: lorem-ipsum
         style: primary
         arrow: false

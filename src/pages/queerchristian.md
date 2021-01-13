@@ -23,7 +23,7 @@ sections:
 
       > ## What does it mean to love God and my neighbor?
     type: header_section
-  - section_id: faq4
+  - section_id: faq3
     questions:
       - question: Was the Bible mistranslated?
         answer: >

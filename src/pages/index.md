@@ -249,7 +249,7 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
-  - section_id: '#Bible'
+  - section_id: bible
     headline: The Bible on Homosexuality
     subtitle: >-
       What does the Bible really say on the topic? Let's look at the passages

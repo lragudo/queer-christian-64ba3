@@ -4,7 +4,7 @@ white_header: true
 sections:
   - section_id: faq2
     questions:
-      - question: So what do all those letters mean?
+      - question: LGBTQ
         answer: ''
     type: faq_section
   - section_id: faq3

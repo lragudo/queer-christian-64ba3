@@ -4,7 +4,7 @@ white_header: true
 sections:
   - section_id: faq2
     questions:
-      - question: LGBTQ
+      - question: LGBTQ+ Explained
         answer: ''
     type: faq_section
   - section_id: faq3

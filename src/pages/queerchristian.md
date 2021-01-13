@@ -1,6 +1,6 @@
 ---
 title: Queer & Christian
-page_css_class: lorem-ipsum
+page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: lorem-ipsum

@@ -335,7 +335,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: What do the pa
+      - question: What do the passa
         answer: >-
           ## Lorem ipsum
 

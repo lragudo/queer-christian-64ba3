@@ -37,7 +37,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-      - question: What are the passages on homosexuality in the Bible?
+      - question: What is a Christian?
         answer: >-
           ## Lorem ipsum
 

@@ -2,19 +2,13 @@
 title: Home
 white_header: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: header-nav
     background_image_opacity: 0
-    content: >-
-      # The Queer Christian FAQ
-
-
-      explain the reason for this site and what it's about
-
-      This is not all inclusive but a place to begin to answer questions and
-      come to an understanding.
+    content: |
+      # Queer Christian FAQ
     actions:
-      - title: LGBTQ+
-        url: '/#lgbtq'
+      - title: LGBTQ+ Explained
+        url: '#lgbtq'
         style: secondary
         arrow: false
         type: action
@@ -23,8 +17,9 @@ sections:
         style: secondary
         arrow: false
         type: action
-      - title: The Bible
-        url: '/#bible'
+      - title: The Bible on Homosexuality
+        url: '#bible'
+
         style: secondary
         arrow: false
         type: action
@@ -33,13 +28,14 @@ sections:
         style: secondary
         arrow: false
         type: action
+      - title: At the End of the Day
+        url: '#end'
+        style: secondary
+        arrow: false
+        type: action
     type: hero_section
-  - section_id: header
-    headline: words
-    subtitle: ''
-    type: header_section
-  - section_id: '#lgbtq'
-    headline: LGBTQ+ Community
+  - section_id: lgbtq
+    headline: LGBTQ+ Explained
     subtitle: >-
       Basic info about the differences between pansexual and bisexual. What the
       heck does asexual mean? And some other basic about what being queer means.
@@ -55,9 +51,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
       - question: What is the difference between sex and gender?
         answer: >-
           ## Lorem ipsum
@@ -67,9 +61,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
 
-          - dolor sit amet
       - question: What is attraction and how do you know for sure?
         answer: >-
           ## Lorem ipsum
@@ -78,10 +70,6 @@ sections:
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
       - question: What is the path that lead you to believe that you are queer?
         answer: >-
           ## Lillian R
@@ -93,7 +81,7 @@ sections:
           ignore. I am pansexual meaning that I am sexually and romantically
           attracted to all genders.
     type: faq_section
-  - section_id: '#queerChristian'
+  - section_id: queerChristian
     headline: Queer and Christian
     subtitle: >-
       While many Christians see no problem with being queer and following God,
@@ -102,7 +90,7 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
-  - section_id: '#Bible'
+  - section_id: bible
     headline: The Bible on Homosexuality
     subtitle: >-
       What does the Bible really say on the topic? Let's look at the passages
@@ -111,13 +99,23 @@ sections:
   - section_id: faq
     questions: []
     type: faq_section
+  - section_id: end
+    bulletpoints:
+      - title: At the End of the Day
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+    type: bulletpoints_section
   - section_id: references
     bulletpoints:
       - title: References
         description: |-
-          1. reference 
-          2. reference 
-          3. [reference ](https://www.qchristian.org/resources/theology)
+
     type: bulletpoints_section
 template: home
 page_css_class: home

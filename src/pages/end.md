@@ -37,18 +37,6 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-      - question: What does it mean to love God and my neighbor?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
     type: faq_section
 template: advanced
 ---

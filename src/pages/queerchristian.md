@@ -4,7 +4,7 @@ page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: queerChristian
-    headline: lorem-ipsum
+    headline: Queer & NChr
     subtitle: >-
       ## Lorem ipsum
 

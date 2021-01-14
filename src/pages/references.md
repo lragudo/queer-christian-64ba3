@@ -33,7 +33,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: Queer & Christ
+      - question: Queer & Christian
         answer: >-
           ## Lorem ipsum
 

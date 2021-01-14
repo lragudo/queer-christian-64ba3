@@ -97,7 +97,7 @@
 
   &--dark {
     @include smaller-than-tablet{
-      padding: .75em 1em;
+      padding: 1.5em;
     }
     background: #333;
     padding: 2em 1em;
@@ -141,6 +141,8 @@
 
 .header {
   background: #333;
+  position: absolute;
+  width: 100%;
   @include smaller-than-tablet {
     padding-top: 0;
   }

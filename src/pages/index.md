@@ -65,6 +65,18 @@ sections:
     questions:
       - question: References
         answer: ''
+      - question: lorem-ipsum
+        answer: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: faq_section
   - section_id: faq7
     questions:

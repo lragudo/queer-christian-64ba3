@@ -26,7 +26,7 @@ sections:
 
           ## What are the core beliefs of Christians?
 
-          ## What does it mean to love God and my neighbor?
+          ## What is the greatest commandment in the Bible?
     type: faq_section
   - section_id: faq4
     questions:

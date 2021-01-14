@@ -12,16 +12,16 @@ sections:
       - question: We would love to hear from you!
         answer: >
           Are you queer and christian and have some questions you would like us
-          to answer? Send it our way and we will consider if it fit within our
+          to answer? Send it our way and we will consider if it fits within our
           site.
 
 
           Do you have an awesome source to add to our reference page? Please let
-          us know, we would love to add to our reference page.
+          us know, we would love to add it to our page.
 
 
-          We are currently only 2 people so responses might be slow but we plan
-          to respond to every message.
+          We are currently only 2 people so responses might be slow depending on
+          how many messages we get. But we plan to respond to every message.
 
 
           # QueerChristianFAQ@gmail.com

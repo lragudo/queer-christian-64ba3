@@ -13,6 +13,10 @@ sections:
       words so you can interact and understand other people better.
 
 
+      > ## Why are there so many words?
+
+      >
+
       > ## So what do all those letters mean?
 
 

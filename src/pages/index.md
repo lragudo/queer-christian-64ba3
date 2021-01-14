@@ -43,12 +43,12 @@ sections:
   - section_id: faq6
     questions:
       - question: References
-        answer: ''
+        answer: >-
     type: faq_section
   - section_id: faq7
     questions:
       - question: Contact
-        answer: ''
+        answer: >-
     type: faq_section
 template: home
 page_css_class: home

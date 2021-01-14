@@ -9,24 +9,18 @@ sections:
     type: header_section
   - section_id: faq6
     questions:
-      - question: LGBTQ+
-        answer: ''
-      - question: Queer & Christian
-        answer: ''
-      - question: The Bible on Homosexuality
-        answer: ''
-      - question: lorem-ipsum
-        answer: >-
-          ## Lorem ipsum
+      - question: Does believing in God make you a Christian?
+        answer: >
+          # Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
     type: faq_section
 template: advanced
 ---

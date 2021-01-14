@@ -206,14 +206,28 @@
     }
   }
 }
-
+.main{
+  &#faq7{
+    .faq{
+      &__section{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+      }
+      &__question{
+        font-size: $font_size_xxlarge;
+      }
+    }
+  }
+}
 #faq7{
   .faq{
     &__question{
     color: #A56FFF;
     }
     &__answer h1{
-      color: #A56FFF;
+        color: #A56FFF;
     }
   }
 }
+

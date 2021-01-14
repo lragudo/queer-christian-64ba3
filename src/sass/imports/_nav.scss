@@ -44,10 +44,14 @@
     & li:nth-child(7){
       color: #8B55E4;
     }
+    & li{
+      border-bottom: 5px solid #333;
+      border-radius: 5px;
+      padding-bottom: .25em;
+    }
     & li:hover{
       color:#fff;
       border-bottom: 5px solid #fff;
-      border-radius: 5px;
     }
   } 
   &__menu-item {

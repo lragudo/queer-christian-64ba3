@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq7
     questions:
-      - question: Contactt
+      - question: Contact
         answer: |
           # Email:
 

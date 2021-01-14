@@ -12,7 +12,9 @@
     justify-content: flex-end;
     align-items: center;
   }
-
+  &--menu:nth-child(1){
+    color: red;
+  }
   &__menu {
     @include smaller-than-tablet {
       display: none;
@@ -67,7 +69,7 @@
 
   &--dark {
     background: #333;
-    padding: 1em;
+    padding: 2em 1em;
     .hamburger__icon-path {
       fill: $color_dark;
     }
@@ -108,10 +110,6 @@
 
 .header {
   @include container-item-properties;
-  position: absolute;
-  left: 0;
-  right: 0;
-  z-index: 10;
   background: #333;
   margin-left: auto;
   margin-right: auto;

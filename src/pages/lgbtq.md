@@ -192,17 +192,8 @@ sections:
           when you are wearing a name tag. 
 
       - question: What is the path that lead you to believe that you are queer?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: |
+          ## Personal Stories
       - question: What about "conversion therapy"?
         answer: >-
           ## Lorem ipsum

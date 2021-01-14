@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq5
     questions:
-      - question: Conclusion
+      - question: At the end of the day.
         answer: ''
     type: faq_section
 template: advanced

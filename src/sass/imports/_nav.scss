@@ -85,12 +85,11 @@
   }
 
   &__right {
-    display: none;
+    display: flex;
     justify-content: center;
     align-items: center;
     margin-left: auto;
     text-align: right;
-    visibility: hidden;
   }
 
   &--dark {

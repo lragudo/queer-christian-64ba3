@@ -64,7 +64,10 @@ sections:
   - section_id: faq6
     questions:
       - question: References
-        answer: ''
+        answer: |
+          ## Where and Who to learn more from.
+
+          ## References and evidance for each section
     type: faq_section
   - section_id: faq7
     questions:

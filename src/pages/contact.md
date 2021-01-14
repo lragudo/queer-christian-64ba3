@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq7
     questions:
-      - question: Send Us a Message!
+      - question: We would love to hear from you!
         answer: >
           Are you queer and christian and have some questions you would like us
           to answer? Send it our way and we will consider if it fit within our

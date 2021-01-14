@@ -4,7 +4,7 @@ white_header: false
 sections:
   - section_id: faq1
     questions:
-      - question: lorem-ipsum
+      - question: 'Christian '
         answer: >-
           ## Lorem ipsum
 

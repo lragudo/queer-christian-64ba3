@@ -5,17 +5,10 @@ sections:
   - section_id: faq1
     questions:
       - question: Queer Christian FAQ
-        answer: >-
-          ## Lorem ipsum
+        answer: |
+          ## Why did we make this site?
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ## Who are we?
     type: faq_section
   - section_id: faq2
     questions:

@@ -10,9 +10,7 @@ sections:
       other successfully. We make up new words all the time whether casually or
       for a profession or industry. We can’t interact or communicate
       successfully without language, so please take the time to learn some new
-      words so you can interact and understand other people better. 
-
-
+      words so you can interact and understand other people better.
 
 
       > ## So what do all those letters mean?
@@ -26,7 +24,11 @@ sections:
 
       >
 
-      > ## What is the path that lead you to believe that you are queer?
+      > ## What lead you to realize and accept that you're queer?
+
+      >
+
+      > ## What about "Conversion Therapy"?
     type: header_section
   - section_id: faq2
     questions:

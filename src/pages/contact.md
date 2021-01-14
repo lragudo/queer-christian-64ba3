@@ -11,9 +11,6 @@ sections:
     questions:
       - question: Send Us a Message!
         answer: >
-          ## We would love to hear from you! 
-
-
           Are you queer and christian and have some questions you would like us
           to answer? Send it our way and we will consider if it fit within our
           site.
@@ -25,6 +22,12 @@ sections:
 
           We are currently only 2 people so responses might be slow but we plan
           to respond to every message.
+
+
+          # QueerChristianFAQ@gmail.com
+
+
+          # IG: @QueerChristianFAQ
     type: faq_section
 template: advanced
 ---

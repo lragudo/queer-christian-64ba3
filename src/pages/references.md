@@ -12,17 +12,7 @@ sections:
       - question: LGBTQ+
         answer: ''
       - question: Queer & Christian
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: ''
     type: faq_section
 template: advanced
 ---

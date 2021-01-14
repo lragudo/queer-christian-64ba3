@@ -4,14 +4,14 @@
   padding: 0;
 
   &__content {
-    background-color: $color_light;
+    background-color: #333;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     position: fixed;
     overflow: hidden;
-    z-index: -1;
+    z-index: 1;
     top: 0;
     left: 0;
     height: 100vh;
@@ -19,6 +19,7 @@
     background-size: auto 250%;
     background-position: center;
     transition: left .3s ease-in-out;
+    color: #fff;
 
     &--opened {
       overflow: hidden;
@@ -28,7 +29,7 @@
   }
 
   &__options {
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     font-family: $font_family_primairy;
@@ -40,6 +41,7 @@
     font-size: 0;
     margin-top: 30px;
     margin-bottom: 70px;
+    display: none;
   }
 
   &__nav {

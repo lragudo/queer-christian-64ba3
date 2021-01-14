@@ -5,7 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  & ul, .footer__nav{
+  & ul, .footer__nav-item{
     & li:nth-child(1){
       color: #F380C5;
     }

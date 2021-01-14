@@ -52,6 +52,9 @@ sections:
           > Matthew 22:34-40 ESV
 
 
+          > \</br
+
+
           >
 
 
@@ -60,7 +63,7 @@ sections:
           saying something heretical, so that they could bring him to trial and
           execute him. I feel that many Christians do this to each other about
           all sorts of topics. We try to trap each other into saying something
-          wrong, so that we can justify our own misdeeds. 
+          wrong, so that we can justify our own misdeeds.
 
 
           Not everyone asking difficult questions have such sinister motives as
@@ -76,7 +79,7 @@ sections:
           good foundation of these two first, how could you possibly fully
           understand any other commandment that God gives? Are the other ones
           really worth arguing about if you cannot love God and love your
-          neighbor? 
+          neighbor?
 
 
           Personally I still need to work on these. I’m still learning how to

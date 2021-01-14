@@ -37,7 +37,7 @@ sections:
     type: faq_section
   - section_id: faq5
     questions:
-      - question: COnclusion
+      - question: Conclusion
         answer: ''
     type: faq_section
   - section_id: faq6

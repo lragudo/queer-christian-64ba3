@@ -1,11 +1,10 @@
 .footer {
   @include container-properties;
-  background-color: $color_dark;
+  background-color: #333;
 
   &__container { 
       @include container-item-properties;
-      padding-top: 50px;
-      padding-bottom: 50px; 
+      padding: 1.5em 0;
       display: flex;
   }
 
@@ -23,7 +22,7 @@
     justify-content: center;
     align-items: center;
     &:not(:last-child) { 
-        margin-right: 40px;
+        margin: 0 .5em ;
     }
   }
   
@@ -40,8 +39,7 @@
   &__legal-notice {
       display: flex;
       align-items: center;
-      color: $color_medium;
-      font-weight: bold;
+      color: #fff;
       margin-left: auto;
   }
 }

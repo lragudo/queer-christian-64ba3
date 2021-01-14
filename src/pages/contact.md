@@ -11,7 +11,13 @@ sections:
     questions:
       - question: Send us a message!
         answer: |
-          ##
+          ## Email:
+
+          ### QueerChristianFAQ@gmail.com
+
+          # Instagram:
+
+          ### @QueerChristianFAQ
       - question: lorem-ipsum
         answer: >-
           ## Lorem ipsum

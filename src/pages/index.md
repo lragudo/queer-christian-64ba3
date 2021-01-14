@@ -59,17 +59,24 @@ sections:
   - section_id: faq5
     questions:
       - question: Conclusion
-        answer: ''
+        answer: |
+          ## At the end of the day where should we all stand?
     type: faq_section
   - section_id: faq6
     questions:
       - question: References
-        answer: ''
+        answer: |
+          ## Where and Who to learn more from.
+
+          ## References and evidance for each section
     type: faq_section
   - section_id: faq7
     questions:
       - question: Contact
-        answer: ''
+        answer: |
+          ## QueerChristianFAQ@gmail.com
+
+          ## @QueerChristianFAQ
     type: faq_section
 template: home
 page_css_class: home

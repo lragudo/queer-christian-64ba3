@@ -45,7 +45,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: lorem-ipsum
+      - question: The Bible on Homosexuality
         answer: >-
           ## Lorem ipsum
 

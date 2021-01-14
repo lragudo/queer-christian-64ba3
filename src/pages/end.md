@@ -4,7 +4,7 @@ page_css_class: queerChristian
 white_header: false
 sections:
   - section_id: end
-    headline: At the End of the Day
+    headline: Conclusion
     subtitle: ''
     type: header_section
   - section_id: faq5

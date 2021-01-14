@@ -37,7 +37,7 @@ sections:
     type: faq_section
   - section_id: faq5
     questions:
-      - question: At the End of the Day
+      - question: COnclusion
         answer: ''
     type: faq_section
   - section_id: faq6

@@ -36,7 +36,7 @@ sections:
     type: header_section
   - section_id: faq2
     questions:
-      - question: lorem-ipsum
+      - question: Why are there so many words?
         answer: >-
           ## Lorem ipsum
 

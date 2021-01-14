@@ -10,17 +10,14 @@ sections:
   - section_id: faq7
     questions:
       - question: Send us a message!
-        answer: >
-          # Lorem ipsum
+        answer: |
+          # Email:
 
+          ## QueerChristianFAQ@gmail.com
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          # Instagram:
 
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          ## @QueerChristianFAQ
     type: faq_section
 template: advanced
 ---

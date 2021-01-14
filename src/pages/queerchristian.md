@@ -21,7 +21,7 @@ sections:
 
       >
 
-      > ## What does it mean to love God and my neighbor?
+      > ## What is the greatest commandment in the Bible?
     type: header_section
   - section_id: faq3
     questions:

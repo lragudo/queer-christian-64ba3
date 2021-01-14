@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq7
     questions:
-      - question: Send u
+      - question: Send us a message
         answer: >
           # Lorem ipsum
 

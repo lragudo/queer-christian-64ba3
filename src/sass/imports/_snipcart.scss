@@ -4,6 +4,8 @@
 }
 
 .snipcart {
+    display: none;
+    
     &-layout {
         background-color: transparent;
     }
@@ -43,7 +45,6 @@
     &-modal__container {
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: $background_images_cart;
     }
 
     &-cart-button--highlight {

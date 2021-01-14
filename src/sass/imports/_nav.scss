@@ -45,8 +45,7 @@
       color: #8B55E4;
     }
     & li{
-      border-bottom: 5px solid #333;
-      border-radius: 5px;
+      border-bottom: 3px solid #333;
       padding-bottom: .25em;
     }
     & li:hover{
@@ -136,10 +135,7 @@
 }
 
 .header {
-  @include container-item-properties;
   background: #333;
-  margin-left: auto;
-  margin-right: auto;
   @include smaller-than-tablet {
     padding-top: 25px;
   }

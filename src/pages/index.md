@@ -5,15 +5,16 @@ sections:
   - section_id: faq2
     questions:
       - question: LGBTQ+ Explained
-        answer: |+
+        answer: |
           ## So what do all those letters mean?
 
           ## What is attraction and how do you know for sure?
 
           ## What is the difference between sex and gender?
 
-          ## What is the path that lead you to believe that you are queer?
+          ## What lead you to realize that you’re queer?
 
+          ## What about “Conversion Therapy”?
     type: faq_section
   - section_id: faq3
     questions:
@@ -43,12 +44,12 @@ sections:
   - section_id: faq6
     questions:
       - question: References
-        answer: >-
+        answer: ''
     type: faq_section
   - section_id: faq7
     questions:
       - question: Contact
-        answer: >-
+        answer: ''
     type: faq_section
 template: home
 page_css_class: home

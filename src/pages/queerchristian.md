@@ -28,17 +28,9 @@ sections:
       - question: Does believing in God make you a Christian?
         answer: "No it does not. Lots of people believe in God or acknowledge God’s presence. It doesn’t mean they follow Him. I acknowledge that politicians exist. It doesn’t mean I follow them. \U0001F602 \n"
       - question: What is a Christian?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Someone who believes in and follows God and His word (the Bible) and
+          seeks to become more like Christ.
       - question: What are the core beliefs of Christians?
         answer: >-
           ## Lorem ipsum

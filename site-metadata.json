@@ -51,7 +51,7 @@
             "type": "action"
         },
         {
-            "title": "End of the Day",
+            "title": "Conclusion",
             "url": "/end",
             "style": "primary",
             "arrow": false,

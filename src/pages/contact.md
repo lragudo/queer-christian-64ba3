@@ -5,7 +5,14 @@ white_header: false
 sections:
   - section_id: contact
     headline: Contact
-    subtitle: ''
+    subtitle: |
+      # Email:
+
+      ## QueerChristianFAQ@gmail.com
+
+      # Instagram:
+
+      ## @QueerChristianFAQ
     type: header_section
   - section_id: faq7
     questions:

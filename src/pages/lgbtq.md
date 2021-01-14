@@ -191,7 +191,7 @@ sections:
           think your pronouns are obvious it’s similar to introducing your name
           when you are wearing a name tag. 
 
-      - question: What lead you to realize and acc
+      - question: What lead you to realize and accept that you're queer?
         answer: |
           ## Personal Stories
       - question: What about "conversion therapy"?

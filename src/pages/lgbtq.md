@@ -37,17 +37,28 @@ sections:
   - section_id: faq2
     questions:
       - question: Why are there so many words?
-        answer: >-
-          ## Lorem ipsum
+        answer: >+
+          A fair question for any topic and one that I have asked myself many
+          times, as I trip and fall over my own mouth, while trying and failing
+          to simply greet another human being. Just like anything else we need
+          language and words to communicate to each other successfully. We make
+          up new words all the time whether casually or for a profession or
+          industry. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          We have created and redefined words in recent history to help
+          communicate about this topic better. Redefining words, stealing words
+          from other languages, and creating new words happens all the time.
+          It’s how the English language came into existence. So if you feel as
+          if language changing is some sort of personal attack on your beliefs,
+          know that it is just people trying to find new ways to communicate the
+          ideas in their heads into your head.
 
 
-          - Lorem ipsum
+          We can’t interact or communicate successfully without language, so
+          please take the time to learn some new words so you can interact and
+          understand other people better.
 
-          - dolor sit amet
       - question: So what do all those letters mean?
         answer: >
           # Sexual & Romantic Orientation

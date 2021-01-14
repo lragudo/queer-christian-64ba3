@@ -10,6 +10,9 @@
     font-weight: bold;
     font-size: $font_size_large;
     margin-bottom: 30px;
+    @include smaller-than-tablet{
+      font-size: $font_size_medium
+    }
   }
 
   &__answer {
@@ -156,6 +159,17 @@
     margin-left: $spacing--unit*8;
   }
 }
+#faq1{
+  .faq{
+    &__question{
+    color: #F380C5;
+    }
+    &__answer h1{
+      color: #F380C5;
+    }
+  }
+}
+
 #faq2{
   .faq{
     &__question{

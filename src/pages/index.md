@@ -14,6 +14,8 @@ sections:
     questions:
       - question: LGBTQ+ Explained
         answer: |
+          ## Why are there so many words?
+
           ## So what do all those letters mean?
 
           ## What is attraction and how do you know for sure?

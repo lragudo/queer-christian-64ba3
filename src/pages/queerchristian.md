@@ -69,13 +69,13 @@ sections:
           understanding.
 
 
-          I conclude from this passage that loving God and loving your neighbor,
-          should come first before all other laws. I see it as these are the
-          ones that I must do and be capable of first before I can do anything
-          else in regards to the law. I also think that if you do not have a
-          good foundation of these two first, how could you possibly fully
-          understand any other commandment that God gives? Are the other ones
-          really worth arguing about if you cannot love God and love your
+          My conclusion from this passage is that loving God and loving your
+          neighbor, should come first before all other laws. I see it as these
+          are the ones that I must do and be capable of first before I can do
+          anything else in regards to the law. I also think that if you do not
+          have a good foundation of these two first, how could you possibly
+          fully understand any other commandment that God gives? Are the other
+          ones really worth arguing about if you cannot love God and love your
           neighbor?
 
 

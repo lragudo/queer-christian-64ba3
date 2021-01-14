@@ -2,6 +2,9 @@
 title: Home
 white_header: false
 sections:
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
   - section_id: faq2
     questions:
       - question: LGBTQ+ Explained
@@ -50,9 +53,6 @@ sections:
     questions:
       - question: Contact
         answer: ''
-    type: faq_section
-  - section_id: lorem-ipsum
-    questions: []
     type: faq_section
 template: home
 page_css_class: home

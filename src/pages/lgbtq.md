@@ -164,17 +164,33 @@ sections:
           difficult and confusing. Hopefully these five categories may help when
           it comes to determining how we feel about another person.
       - question: What is the difference between sex and gender?
-        answer: >-
-          ## Lorem ipsum
+        answer: >+
+          Everyone has preferred pronouns and names. No one likes it when
+          someone uses the wrong pronouns even if they’re cisgender. No one
+          likes it when their coworker can’t remember their name, when they’ve
+          been working together for over a year. Respect people by using the
+          name and pronouns they introduce themselves with. It’s okay to make
+          mistakes, but it’s not okay to go out of your way to use the wrong
+          name or pronoun. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Here are some gender neutral ways to refer to others.
 
 
-          - Lorem ipsum
+          *   **They/Them:**
+              You will likely hear this the most often depending on your social circles. They/ Them is a gender neutral way to refer to people in both the singular and plural. It is also not grammatically incorrect. 
 
-          - dolor sit amet
+          *   **Ze/Zir:**
+              his is another common singular gender neutral pronoun. It is used in the same way that she/her or he/him would be used.
+
+          *   **Mx:**
+              Pronounced like ‘Mix’ this is a gender neutral honorific that can be used in replace of Mr. Ms. or Mrs. 
+
+          Lastly, just as it is polite to say your name when introducing
+          yourself to someone, it’s polite to say your pronouns too. Even if you
+          think your pronouns are obvious it’s similar to introducing your name
+          when you are wearing a name tag. 
+
       - question: What is the path that lead you to believe that you are queer?
         answer: >-
           ## Lorem ipsum

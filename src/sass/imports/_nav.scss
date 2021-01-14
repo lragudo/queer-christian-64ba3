@@ -95,6 +95,9 @@
   }
 
   &--dark {
+    @include smaller-than-tablet{
+      padding: .5em 1em;
+    }
     background: #333;
     padding: 2em 1em;
     .hamburger__icon-path {
@@ -138,7 +141,7 @@
 .header {
   background: #333;
   @include smaller-than-tablet {
-    padding-top: 25px;
+    padding-top: 0;
   }
 }
 

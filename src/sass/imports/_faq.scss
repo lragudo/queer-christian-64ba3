@@ -10,6 +10,9 @@
     font-weight: bold;
     font-size: $font_size_large;
     margin-bottom: 30px;
+    @include smaller-than-tablet{
+      font-size: $font_size_medium
+    }
   }
 
   &__answer {

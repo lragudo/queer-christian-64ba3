@@ -8,11 +8,11 @@ sections:
     subtitle: |
       # Email:
 
-      ## QueerChristianFAQ@gmail.com
+      QueerChristianFAQ@gmail.com
 
       # Instagram:
 
-      ## @QueerChristianFAQ
+      @QueerChristianFAQ
     type: header_section
   - section_id: faq7
     questions:

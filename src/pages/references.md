@@ -11,7 +11,7 @@ sections:
     questions:
       - question: LGBTQ+
         answer: ''
-      - question: lorem-ipsum
+      - question: Queer & Christian
         answer: >-
           ## Lorem ipsum
 

@@ -209,11 +209,17 @@
 
 #faq7{
   .faq{
+    &__section{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+    }
     &__question{
     color: #A56FFF;
+    font-size: $font_size_xxlarge;
     }
     &__answer h1{
-      color: #A56FFF;
+        color: #A56FFF;
     }
   }
 }

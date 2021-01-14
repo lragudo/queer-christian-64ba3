@@ -191,7 +191,7 @@ sections:
           think your pronouns are obvious it’s similar to introducing your name
           when you are wearing a name tag. 
 
-      - question: What is the path that lead you to believe that you are queer?
+      - question: What lead you to realize and acc
         answer: |
           ## Personal Stories
       - question: What about "conversion therapy"?

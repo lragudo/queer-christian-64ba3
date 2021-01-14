@@ -52,7 +52,7 @@ sections:
           > Matthew 22:34-40 ESV
 
 
-          > \</br
+          > \</br>
 
 
           >

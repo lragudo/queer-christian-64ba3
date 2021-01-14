@@ -141,7 +141,7 @@
 
 .header {
   background: #333;
-  position: absolute;
+  position: fixed;
   width: 100%;
   @include smaller-than-tablet {
     padding-top: 0;

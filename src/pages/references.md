@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq6
     questions:
-      - question: LGBTQ
+      - question: LGBTQ+
         answer: >
           # Lorem ipsum
 

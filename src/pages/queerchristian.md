@@ -35,7 +35,7 @@ sections:
         answer: >
           There are many denominations of Christianity, but most would agree
           that these are the core points of the Bible.
-      - question: What does it mean to love God and my neighbor?
+      - question: What is the greatest commandment in the Bible?
         answer: >
           > Hearing that Jesus had silenced the Sadducees, the Pharisees got
           together. One of them, an expert in the law, tested him with this

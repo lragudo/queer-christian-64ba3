@@ -11,13 +11,7 @@ sections:
     questions:
       - question: Send us a message!
         answer: |
-          # Email:
-
-          ## QueerChristianFAQ@gmail.com
-
-          # Instagram:
-
-          ## @QueerChristianFAQ
+          ##
     type: faq_section
 template: advanced
 ---

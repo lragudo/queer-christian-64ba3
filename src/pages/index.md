@@ -2,7 +2,7 @@
 title: Home
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: faq1
     questions: []
     type: faq_section
   - section_id: faq2

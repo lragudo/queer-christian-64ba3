@@ -11,7 +11,7 @@ sections:
     questions:
       - question: Send us a message!
         answer: |
-          ## Email:
+          # Email:
 
           ### QueerChristianFAQ@gmail.com
 

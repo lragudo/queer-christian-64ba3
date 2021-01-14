@@ -5,10 +5,20 @@ sections:
   - section_id: faq1
     questions:
       - question: Queer Christian FAQ
-        answer: |
+        answer: >
           ## Why did we make this site?
 
+
           ## Who are we?
+
+
+          ## Disclaimer
+
+
+          This is not an encyclopedia or a wiki on all things queer and
+          christian. This is merely a starting point for understanding and
+          clarity for those with differing beliefs. We have a generous reference
+          page if you wish to learn more about any particular topic.
     type: faq_section
   - section_id: faq2
     questions:

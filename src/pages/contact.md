@@ -9,18 +9,25 @@ sections:
     type: header_section
   - section_id: faq7
     questions:
-      - question: Does believing in God make you a Christian?
+      - question: We would love to hear from you!
         answer: >
-          # Lorem ipsum
+          Are you queer and christian and have some questions you would like us
+          to answer? Send it our way and we will consider if it fits within our
+          site.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Do you have an awesome source to add to our reference page? Please let
+          us know, we would love to add it to our page.
 
 
-          *   Lorem ipsum
+          We are currently only 2 people so responses might be slow depending on
+          how many messages we get. But we plan to respond to every message.
 
-          *   dolor sit amet
+
+          # QueerChristianFAQ@gmail.com
+
+
+          # IG: @QueerChristianFAQ
     type: faq_section
 template: advanced
 ---

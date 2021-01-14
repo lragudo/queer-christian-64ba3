@@ -13,7 +13,7 @@ sections:
         answer: ''
       - question: Queer & Christian
         answer: ''
-      - question: lorem-ipsum
+      - question: Bible on Homosexuality
         answer: >-
           ## Lorem ipsum
 

@@ -32,17 +32,9 @@ sections:
           Someone who believes in and follows God and His word (the Bible) and
           seeks to become more like Christ.
       - question: What are the core beliefs of Christians?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          There are many denominations of Christianity, but most would agree
+          that these are the core points of the Bible.
       - question: What does it mean to love God and my neighbor?
         answer: >-
           ## Lorem ipsum

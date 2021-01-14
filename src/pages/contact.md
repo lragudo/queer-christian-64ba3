@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq7
     questions:
-      - question: Does believing in God make you a Christian?
+      - question: Send Us a Message!
         answer: >
           # Lorem ipsum
 

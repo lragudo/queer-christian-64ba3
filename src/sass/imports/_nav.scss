@@ -12,9 +12,7 @@
     justify-content: flex-end;
     align-items: center;
   }
-  &--menu:nth-child(1){
-    color: red;
-  }
+  
   &__menu {
     @include smaller-than-tablet {
       display: none;
@@ -26,7 +24,9 @@
     margin-right: auto;
     color: #fff;
   }
-
+  &--menu:nth-child(1){
+    color: red;
+  }
   &__menu-item {
     margin: 0;
     font-size: $font_size_regular;

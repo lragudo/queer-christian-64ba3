@@ -5,6 +5,37 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  
+  & li:nth-child(1){
+    color: #F380C5;
+  }
+  & li:nth-child(2){
+    color: #FF2C2C;
+  }
+  & li:nth-child(3){
+    color: #FF8A00;
+  }
+  & li:nth-child(4){
+    color: #FFC700;
+  }
+  & li:nth-child(5){
+    color: #3BC36F;
+  }
+  & li:nth-child(6){
+    color: #689BEF;
+  }
+  & li:nth-child(7){
+    color: #A56FFF;
+  }
+  & li{
+    border-bottom: 3px solid #333;
+    padding-bottom: .25em;
+  }
+  & li:hover{
+    color:#fff;
+    border-bottom: 3px solid #fff;
+  }
+  
 
   &__button {
     width: 100%;
@@ -23,35 +54,7 @@
     margin-left: auto;
     margin-right: auto;
     color: #fff;
-    & li:nth-child(1){
-      color: #F380C5;
-    }
-    & li:nth-child(2){
-      color: #E51818;
-    }
-    & li:nth-child(3){
-      color: #FF8A00;
-    }
-    & li:nth-child(4){
-      color: #FFC700;
-    }
-    & li:nth-child(5){
-      color: #30BC65;
-    }
-    & li:nth-child(6){
-      color: #4D87E7;
-    }
-    & li:nth-child(7){
-      color: #8B55E4;
-    }
-    & li{
-      border-bottom: 3px solid #333;
-      padding-bottom: .25em;
-    }
-    & li:hover{
-      color:#fff;
-      border-bottom: 3px solid #fff;
-    }
+    
   } 
   &__menu-item {
     margin: 0;
@@ -93,6 +96,9 @@
   }
 
   &--dark {
+    @include smaller-than-tablet{
+      padding: .75em 1em;
+    }
     background: #333;
     padding: 2em 1em;
     .hamburger__icon-path {
@@ -136,7 +142,7 @@
 .header {
   background: #333;
   @include smaller-than-tablet {
-    padding-top: 25px;
+    padding-top: 0;
   }
 }
 

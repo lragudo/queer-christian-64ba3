@@ -38,17 +38,7 @@ sections:
   - section_id: faq5
     questions:
       - question: At the End of the Day
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: ''
     type: faq_section
   - section_id: faq6
     questions:

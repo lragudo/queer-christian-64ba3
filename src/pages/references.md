@@ -21,7 +21,7 @@ sections:
           *   Lorem ipsum
 
           *   dolor sit amet
-      - question: LGBTQ
+      - question: LGBTQ+ Explained
         answer: >-
           ## Lorem ipsum
 

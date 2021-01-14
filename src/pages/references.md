@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: faq6
     questions:
-      - question: 'What to learn more? '
+      - question: What to learn more? Here are some of our reccomendations
         answer: >
           # Lorem ipsum
 

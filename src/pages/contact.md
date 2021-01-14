@@ -11,16 +11,20 @@ sections:
     questions:
       - question: Send Us a Message!
         answer: >
-          # Lorem ipsum
+          ## We would love to hear from you! 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Are you queer and christian and have some questions you would like us
+          to answer? Send it our way and we will consider if it fit within our
+          site.
 
 
-          *   Lorem ipsum
+          Do you have an awesome source to add to our reference page? Please let
+          us know, we would love to add to our reference page.
 
-          *   dolor sit amet
+
+          We are currently only 2 people so responses might be slow but we plan
+          to respond to every message.
     type: faq_section
 template: advanced
 ---

@@ -24,9 +24,6 @@ $font_size_small: 16px;
 $font_family_primairy: 'Open Sans', sans-serif;
 $font_family_secondary: 'Lato', sans-serif;
 
-* {
-    box-sizing: border-box;
-}
 html{
     scroll-behavior: smooth;
 }
@@ -34,7 +31,10 @@ body {
     overflow-x: hidden;
     margin: 0;
     padding: 0;
-    
+}
+
+* {
+    box-sizing: border-box;
 }
 
 a {

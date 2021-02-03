@@ -57,7 +57,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: Other (somewhat unrelated) Awesome People
+      - question: Suggested Awesome People
         answer: >
           # Brene Brown
 

@@ -58,17 +58,20 @@ sections:
 
           - dolor sit amet
       - question: Other (somewhat unrelated) Awesome People
-        answer: >-
-          ## Lorem ipsum
+        answer: >
+          # Brene Brown
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          If you want to learn more about people, other perspectives, and how to
+          connect and understand others then you should definitely follow her.
+          She has an awesome podcast called Unlocking Us! It has been deep,
+          meditative, and healing for me.
 
 
-          - Lorem ipsum
+          > "Conversations that unlock the deeply human part of who we are, so
+          that 
 
-          - dolor sit amet
+          > we can live, love, parent, and lead with more courage and heart. "
     type: faq_section
 template: advanced
 ---

@@ -6,10 +6,15 @@ sections:
     questions:
       - question: Queer Christian FAQ
         answer: >
-          ## Why did we make this site?
+          ## Who are we and why did we make this site?
 
 
-          ## Who are we?
+          Just two friends, who come from a christian background and had a hard
+          time coming out and explaining our choices to our friends and family.
+          We want to make this process a little easier for others, so began the
+          process of creating QueerChristianFAQ. I want this site to be the
+          beginning of a conversation. A conversation full of love, empathy, and
+          understanding. Please come with an open mind and heart.
 
 
           ## Disclaimer

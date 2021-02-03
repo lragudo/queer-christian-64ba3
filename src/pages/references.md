@@ -57,7 +57,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: Other Awesome People
+      - question: Other (somewhat unrelated) Awesome People
         answer: >-
           ## Lorem ipsum
 

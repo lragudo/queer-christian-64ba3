@@ -57,7 +57,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-      - question: Suggested Awesome People
+      - question: Suggested Awesome People to Follow
         answer: >
           # Brene Brown
 

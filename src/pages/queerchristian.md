@@ -40,19 +40,11 @@ sections:
           > Hearing that Jesus had silenced the Sadducees, the Pharisees got
           together. One of them, an expert in the law, tested him with this
           question: “Teacher, which is the greatest commandment in the Law?”
-
-
-          > Jesus replied: “‘Love the Lord your God with all your heart and with
+          Jesus replied: “‘Love the Lord your God with all your heart and with
           all your soul and with all your mind.’ This is the first and greatest
           commandment. And the second is like it: ‘Love your neighbor as
           yourself.’  All the Law and the Prophets hang on these two
-          commandments.
-
-
-          > Matthew 22:34-40 ESV
-
-
-          >
+          commandments. (Matthew 22:34-40 ESV)
 
 
           Throughout the gospels the Sadducees and Pharisees try to trip Jesus

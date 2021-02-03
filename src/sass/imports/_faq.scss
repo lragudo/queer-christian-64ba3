@@ -169,6 +169,10 @@
       color: #F380C5;
     }
   }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #F380C5;
+  }
 }
 
 #faq2{
@@ -180,6 +184,10 @@
       color: #FF2C2C;
     }
   }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #FF2C2C;
+  }
 }
 #faq3{
   .faq{
@@ -189,6 +197,10 @@
     &__answer h1{
       color: #FF8A00;
     }
+  }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #FF8A00;
   }
 }
 #faq4{
@@ -200,6 +212,10 @@
       color: #FFC700;
     }
   }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #FFC700;
+  }
 }
 #faq5{
   .faq{
@@ -210,6 +226,10 @@
       color: #3BC36F;
     }
   }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #3BC36F;
+  }
 }
 #faq6{
   .faq{
@@ -219,6 +239,10 @@
     &__answer h1{
       color: #689BEF;
     }
+  }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #689BEF;
   }
 }
 .main{
@@ -243,6 +267,10 @@
     &__answer h1{
         color: #A56FFF;
     }
+  }
+  blockquote{
+    padding-left: 1rem;
+    border-left: 4px solid #A56FFF;
   }
 }
 

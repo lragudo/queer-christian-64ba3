@@ -88,6 +88,9 @@
   }
 
   &__right {
+    @include bigger-than-tablet{
+      display: none;
+    }
     display: flex;
     justify-content: center;
     align-items: center;

@@ -81,17 +81,17 @@ sections:
           meditative, and healing for me.
 
 
+          > "Conversations that unlock the deeply human part of who we are, so
+          that
+
+          > we can live, love, parent, and lead with more courage and heart. "
+
+
           [Brene Brown's Website](https://brenebrown.com/)
 
 
           [Unlocking Us
           Podcast](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ?si=x4J0rWaTQ7e7xIcjg4jUkw)
-
-
-          > "Conversations that unlock the deeply human part of who we are, so
-          that
-
-          > we can live, love, parent, and lead with more courage and heart. "
     type: faq_section
 template: advanced
 ---

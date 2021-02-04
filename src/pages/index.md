@@ -64,8 +64,7 @@ sections:
   - section_id: faq5
     questions:
       - question: Conclusion
-        answer: |
-          ## At the end of the day where should we all stand?
+        answer: ''
     type: faq_section
   - section_id: faq6
     questions:

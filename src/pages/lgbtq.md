@@ -29,10 +29,6 @@ sections:
       >
 
       > ## What lead you to realize and accept that you're queer?
-
-      >
-
-      > ## What about "Conversion Therapy"?
     type: header_section
   - section_id: faq2
     questions:

@@ -49,6 +49,26 @@ sections:
           - dolor sit amet
       - question: Suggested Awesome People to Follow
         answer: >
+          # Teresa & Travis McElroy
+
+
+          This wife and husband duo have a great podcast called Shammers. It is
+          about extraordinary etiquette for ordinary occasions. They first talk
+          about the history of a topic and then answer questions sent in by
+          their listeners. Sometimes they also do biographies. They have a nice
+          episode where they have a conversation with their LGBTQ+ friends on
+          dating. If you’re queer and nervous about dating this is a great
+          episode to listen to.
+
+
+          [Shmanners
+          Podcast](https://open.spotify.com/show/5puvcwJqTsRxH7p6jpcdyW?si=k1hKulNhRqq28JTpn31DKg)
+
+
+          [Dating (LGBTQIA+
+          Edition)](https://open.spotify.com/episode/3AJHSBqpKgXKnbjTKtlhGH?si=-ZZ7rcmhReCrIoh0l-cLaQ)
+
+
           # Brene Brown
 
 
@@ -58,8 +78,15 @@ sections:
           meditative, and healing for me.
 
 
+          [Brene Brown's Website](https://brenebrown.com/)
+
+
+          [Unlocking Us
+          Podcast](https://open.spotify.com/show/4P86ZzHf7EOlRG7do9LkKZ?si=x4J0rWaTQ7e7xIcjg4jUkw)
+
+
           > "Conversations that unlock the deeply human part of who we are, so
-          that 
+          that
 
           > we can live, love, parent, and lead with more courage and heart. "
     type: faq_section

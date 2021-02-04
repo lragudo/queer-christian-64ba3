@@ -52,6 +52,8 @@ sections:
           ## What are the core beliefs of Christians?
 
           ## What is the greatest commandment in the Bible?
+
+          ## What about “conversion therapy”?
     type: faq_section
   - section_id: faq4
     questions:

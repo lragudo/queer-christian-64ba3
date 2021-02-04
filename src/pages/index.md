@@ -38,8 +38,6 @@ sections:
           ## What is the difference between sex and gender?
 
           ## What lead you to realize that you’re queer?
-
-          ##
     type: faq_section
   - section_id: faq3
     questions:

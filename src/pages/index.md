@@ -39,7 +39,7 @@ sections:
 
           ## What lead you to realize that you’re queer?
 
-          ## What about “Conversion Therapy”?
+          ##
     type: faq_section
   - section_id: faq3
     questions:

@@ -27,7 +27,8 @@ sections:
           # QueerChristianFAQ@gmail.com
 
 
-          # IG: @QueerChristianFAQ
+          # [Instagram:
+          @QueerChristianFAQ](https://www.instagram.com/queerchristianfaq/)
     type: faq_section
 template: advanced
 ---

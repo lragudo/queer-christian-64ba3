@@ -25,7 +25,7 @@ sections:
 
       >
 
-      > ## What about conversion therapy?
+      > ## What about "conversion therapy"?
     type: header_section
   - section_id: faq3
     questions:

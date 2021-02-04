@@ -10,7 +10,7 @@ sections:
   - section_id: faq6
     questions:
       - question: Learn More From
-        answer: "# Matthew Vines\n\nMatthew Vines is a pastor and leader that supports LGBTQ+ inclusion in the church. He is the author of *God and the Gay Christian: The Biblical Case in Support of Same-Sex Relationships*. He also launched the Reformation Project, which is a non-profit organization that works towards LGBTQ+ inclusion in the church.\n\n[God and the Gay Christian Book](https://www.amazon.com/God-Gay-Christian-Biblical-Relationships/dp/160142518X)\n\n[The Reformation Project Website](https://reformationproject.org/\_)\n\n[The Refermation Project Youtube](https://www.youtube.com/c/TheReformationProject/featured\_)\n\n"
+        answer: "# Matthew Vines\n\nMatthew Vines is a pastor and leader that supports LGBTQ+ inclusion in the church. He is the author of *God and the Gay Christian: The Biblical Case in Support of Same-Sex Relationships*. He also launched the Reformation Project, which is a non-profit organization that works towards LGBTQ+ inclusion in the church.\n\n*   [God and the Gay Christian Book](https://www.amazon.com/God-Gay-Christian-Biblical-Relationships/dp/160142518X)\n\n*   [The Reformation Project Website](https://reformationproject.org/\_)\n\n*   [The Refermation Project Youtube](https://www.youtube.com/c/TheReformationProject/featured\_)\n"
       - question: LGBTQ+ Explained
         answer: >-
           ## Lorem ipsum

@@ -77,7 +77,7 @@ sections:
           in my life where my heart is hard towards them and I don’t love them
           how I should. Yes I still care about the rest of the Bible, but this
           is my personal focus right now.
-      - question: lorem-ipsum
+      - question: 'What '
         answer: >-
           ## Lorem ipsum
 

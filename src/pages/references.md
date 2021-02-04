@@ -5,8 +5,9 @@ white_header: false
 sections:
   - section_id: references
     headline: References
-    subtitle: |
-      # woeds
+    subtitle: >
+      Here you will find links to my research on each subject, where to learn in
+      greater detail, and people to follow.
     type: header_section
   - section_id: faq6
     questions:

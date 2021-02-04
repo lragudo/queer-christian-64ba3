@@ -219,10 +219,6 @@ sections:
       - question: What lead you to realize and accept that you're queer?
         answer: |
           ## Personal Stories
-      - question: What about "conversion therapy"?
-        answer: >
-          People have come to a consensus that “conversion therapy” does not
-          work. Here’s a summary of why.
     type: faq_section
 template: advanced
 ---

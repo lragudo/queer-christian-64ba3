@@ -52,7 +52,7 @@ sections:
           # Teresa & Travis McElroy
 
 
-          This wife and husband duo have a great podcast called Shammers. It is
+          This wife and husband duo have a great podcast called Shmanners. It is
           about extraordinary etiquette for ordinary occasions. They first talk
           about the history of a topic and then answer questions sent in by
           their listeners. Sometimes they also do biographies. They have a nice
@@ -67,6 +67,9 @@ sections:
 
           [Dating (LGBTQIA+
           Edition)](https://open.spotify.com/episode/3AJHSBqpKgXKnbjTKtlhGH?si=-ZZ7rcmhReCrIoh0l-cLaQ)
+
+
+          [McElroy Family Website](https://www.themcelroy.family/)
 
 
           # Brene Brown

@@ -6,7 +6,7 @@ sections:
     questions:
       - question: Queer Christian FAQ
         answer: >
-          ## Who are we and why did we make this site?
+          ## Who we are and why we made this site
 
 
           Just two friends, who come from a christian background and had a hard

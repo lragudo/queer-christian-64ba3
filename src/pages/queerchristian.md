@@ -31,10 +31,6 @@ sections:
         answer: >
           Someone who believes in and follows God and His word (the Bible) and
           seeks to become more like Christ.
-      - question: What are the core beliefs of Christians?
-        answer: >
-          There are many denominations of Christianity, but most would agree
-          that these are the core points of the Bible.
       - question: What is the greatest commandment in the Bible?
         answer: >
           > Hearing that Jesus had silenced the Sadducees, the Pharisees got

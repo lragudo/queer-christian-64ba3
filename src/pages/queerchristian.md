@@ -12,14 +12,10 @@ sections:
 
       > ## Does believing in God make you a Christian?
 
+      >
 
       > ## What is a Christian?
 
-      >
-
-      > ## What are the core beliefs of Christians?
-
-      >
 
       > ## What is the greatest commandment in the Bible?
 

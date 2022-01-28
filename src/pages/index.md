@@ -8,6 +8,7 @@ sections:
         answer: >
           ## Who we are and why we made this site
 
+
           Just two friends, who come from a christian background and had a hard
           time coming out and explaining our choices to our friends and family.
           We want to make this process a little easier for others, so began the
@@ -15,7 +16,7 @@ sections:
           beginning of a conversation. A conversation full of love, empathy, and
           understanding. Please come with an open mind and heart.
 
-          ##We could use some help writing and updating the content of the website. If you want to help out email us with samples of your work or resume!
+          *We could use some help writing and updating the content of the website. If you want to help out email us with samples of your work or resume!***
 
 
           ## Disclaimer

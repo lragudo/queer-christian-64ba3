@@ -8,7 +8,6 @@ sections:
         answer: >
           ## Who we are and why we made this site
 
-
           Just two friends, who come from a christian background and had a hard
           time coming out and explaining our choices to our friends and family.
           We want to make this process a little easier for others, so began the
